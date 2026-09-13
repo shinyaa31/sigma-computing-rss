@@ -2,7 +2,7 @@ name: Build Sigma RSS
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 6時間ごと(UTC)
+    - cron: "0 */3 * * *"   # 3時間ごと(UTC)
   workflow_dispatch:
     inputs:
       seed:
