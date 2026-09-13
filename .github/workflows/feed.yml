@@ -36,9 +36,9 @@ jobs:
           FEED_SELF_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml
         run: |
           if [ "${{ inputs.seed }}" = "true" ]; then
-            python sigma_blog_feed.py --seed --bootstrap 20
+            python sigma_feed.py --seed --bootstrap 20
           else
-            python sigma_blog_feed.py
+            python sigma_feed.py
           fi
 
       - name: Commit if changed
