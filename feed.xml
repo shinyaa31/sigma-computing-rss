@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sigma Computing Blog (unofficial)</title>
+    <link>https://www.sigmacomputing.com/blog</link>
+    <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Sep 2026 12:59:08 +0000</lastBuildDate>
+    <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Sigma Plugin Is Live for ChatGPT Work and Codex</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Build interactive dashboards and answer data questions with the Sigma plugin, now available in ChatGPT Work and Codex.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b4ccfcc5113d746280971d7b21406adb8f71fe6a-3600x2025.png?rect=0,73,3600,1881&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Money20/20 USA in Las Vegas | October 18-21, 2026</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-money-2020-2026</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-money-2020-2026</guid>
+      <pubDate>Wed, 09 Sep 2026 21:38:06 +0000</pubDate>
+      <description>Join us in Las Vegas, where the industry's leading Financial Services innovators come together to connect and create the future of money. Buy your pass today!</description>
+      <category>YOU HAVE HOURS LEFT TO SAVE</category>
+      <enclosure url="//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>dbt Summit in Las Vegas | September 15-18</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-dbtsummit-2026</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-dbtsummit-2026</guid>
+      <pubDate>Wed, 09 Sep 2026 21:37:37 +0000</pubDate>
+      <description>dbt Summit is the world’s largest gathering of dbt community members. Join data leaders, and practitioners to shape the future of data &amp; AI.</description>
+      <category>Las Vegas</category>
+      <enclosure url="https://www.getdbt.com/dbt-summit/dbt-summit-social-register-2026.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Set Up your Coding Agent and Start Building in Sigma</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/how-to-set-up-your-coding-agent-for-building-in-sigma</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/how-to-set-up-your-coding-agent-for-building-in-sigma</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Learn how to set up your AI harness, connect tools like Claude Code to Sigma, and start building AI-powered apps.</description>
+      <category>Webinars &amp; Events</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/bdb8b451b2299f617556bcf88917e8d33ba2531c-1200x628.png?rect=0,1,1200,627&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Custom AI Agents for Data Analytics: Build One That Works</title>
+      <link>https://www.sigmacomputing.com/blog/custom-ai-agents-data-analytics</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/custom-ai-agents-data-analytics</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Custom AI agents for data analytics can deliver repeatable answers on governed warehouse data. Learn what it takes to build one for production.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9490f6110318d2fd53800d3d721ee0a480869b4f-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Workbook to Report Converter: Pixel-Perfect Reports in 1 Click</title>
+      <link>https://www.sigmacomputing.com/blog/workbook-to-report-converter</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/workbook-to-report-converter</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Convert a Sigma workbook into a paginated, on-brand report with live data. Skip rebuilding layouts, headers, and formatting by hand.</description>
+      <category>Product</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/211a79a4169c5056faf624a5be4a0361672ffb71-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Automate the manual work of fp and a with ai and sigma</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma</guid>
+      <pubDate>Tue, 08 Sep 2026 15:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Export Sigma Reports to PowerPoint in One Click</title>
+      <link>https://www.sigmacomputing.com/blog/powerpoint-exports</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/powerpoint-exports</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Export Sigma reports to PowerPoint. Every deck runs on live warehouse data and inherits the permissions on your report.</description>
+      <category>Product</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9b8ab212b041e0b9a178d0f330a26608c8931830-2432x1276.png?rect=0,3,2432,1271&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Migrate from Domo to Sigma faster with Coding Agents</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/migrate-off-domo-with-coding-agents</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/migrate-off-domo-with-coding-agents</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>See how coding agents can accelerate Domo-to-Sigma migrations by automating asset conversion, preserving business logic, and reducing manual effort.</description>
+      <category>Webinars &amp; Events</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/7e8feee556add726cff0662f196231819613518e-1200x628.png?rect=0,1,1200,627&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Sigma live nyc 2026</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-live-nyc-2026</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-live-nyc-2026</guid>
+      <pubDate>Tue, 01 Sep 2026 19:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preview the future of building applications with sigma</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/preview-the-future-of-building-applications-with-sigma</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/preview-the-future-of-building-applications-with-sigma</guid>
+      <pubDate>Tue, 01 Sep 2026 14:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Sigma August 2026: CLI, Coding Agents &amp; Secrets | Sigma</title>
+      <link>https://www.sigmacomputing.com/blog/new-in-sigma-august-2026</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/new-in-sigma-august-2026</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>See what shipped in Sigma this August: the Sigma CLI, Sigma Skills for coding agents, webhook triggers, Anthropic models, Tenants GA, and a secret manager integration.</description>
+      <category>Product</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/5281487c933363beea535def58991ef34d4f0e1a-3840x2016.png?rect=0,5,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI for Data Blending: How It Works and What's Changing</title>
+      <link>https://www.sigmacomputing.com/blog/ai-for-data-blending</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-for-data-blending</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>AI for data blending combines sources for analysis without new pipelines. Learn how it works and how AI is changing the practice.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/905b0b9d653b491c91c1257d0c84a6872896397b-2314x1300.avif?rect=0,46,2314,1209&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Data and Analytics Strategy: A Practical Framework</title>
+      <link>https://www.sigmacomputing.com/blog/data-and-analytics-strategy</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/data-and-analytics-strategy</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Build a data and analytics strategy that aligns governance, access, and action with business outcomes. Stop the three-answer problem before it starts.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6a89bf08c3f4c59a3704dc4d1f9f7d871f9db8bc-2314x1300.avif?rect=0,46,2314,1209&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Build Governed Apps in Minutes with a Coding Agent</title>
+      <link>https://www.sigmacomputing.com/blog/build-governed-apps-coding-agent</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/build-governed-apps-coding-agent</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Use Sigma Skills with Claude Code, Cursor, Codex, or Snowflake CoCo to turn a prompt into a governed Sigma app in minutes.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/90edd160eedb60dd6f8f667ea935629010337b82-2400x1260.avif?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI Spreadsheets: What Changes When AI Sits Inside the Grid</title>
+      <link>https://www.sigmacomputing.com/blog/ai-spreadsheets</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-spreadsheets</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>An AI spreadsheet is only as good as the data it reaches. Learn what separates live, governed AI grids from bolted-on add-ons.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/a5bbe001a7f9d424f7b18286dc724cd897305cd6-2314x1300.avif?rect=0,46,2314,1209&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI Agent for Automated Reporting: How It Works</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-automated-reporting</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-automated-reporting</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>AI agents automate recurring reports by querying live warehouse data, formatting outputs, and delivering them on a set schedule.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/550cb8958414d5dd5fc93c1598aa9bb35a5f6d83-2314x1300.avif?rect=0,46,2314,1209&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>What agile analytics really means</title>
+      <link>https://www.sigmacomputing.com/blog/what-is-agile-analytics-methodology</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-agile-analytics-methodology</guid>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <description>See what makes analytics agile: querying the warehouse live instead of working from an old extract.</description>
+      <category>Blog</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/73b48768e280738699a44f0453489409e772ec21-2000x1100.png?rect=0,28,2000,1045&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>What we learned at Databricks' 2023 Data and AI World Tour</title>
+      <link>https://www.sigmacomputing.com/blog/highlights-from-the-databricks-data-and-ai-world-tours-whats-next</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/highlights-from-the-databricks-data-and-ai-world-tours-whats-next</guid>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <description>Revisit what Sigma learned sponsoring Databricks' 2023 Data and AI World Tour, and what still holds up today.</description>
+      <category>Databricks</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/d0528bc706b06d1adb4a43ccd76b14ded1350fba-1999x1047.heif?rect=0,2,1999,1044&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>What we announced with Databricks at the 2023 Data + AI Summit</title>
+      <link>https://www.sigmacomputing.com/blog/unleashing-the-power-of-data-highlights-from-the-data-ai-summit-and-the-sigma-databricks-integration</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/unleashing-the-power-of-data-highlights-from-the-data-ai-summit-and-the-sigma-databricks-integration</guid>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <description>See what Sigma and Databricks announced in 2023 and which parts (Input Tables, Lakehouse Federation) still work exactly that way today.</description>
+      <category>Databricks</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/3a0fdf0a383d463e099d8952bd83fcb07135f005-1000x550.heif?rect=0,14,1000,523&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>
