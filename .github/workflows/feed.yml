@@ -1,0 +1,50 @@
+name: Build Sigma blog RSS
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6時間ごと(UTC)
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "初回シード実行にする"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sigma-blog-rss
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Build feed
+        env:
+          # GitHub Pagesで公開する場合の自URLに書き換えてください
+          FEED_SELF_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml
+        run: |
+          if [ "${{ inputs.seed }}" = "true" ]; then
+            python sigma_blog_feed.py --seed --bootstrap 20
+          else
+            python sigma_blog_feed.py
+          fi
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml state.json
+          git diff --staged --quiet || git commit -m "chore: update feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
