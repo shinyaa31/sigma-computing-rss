@@ -1,4 +1,4 @@
-name: Build Sigma blog RSS
+name: Build Sigma RSS
 
 on:
   schedule:
