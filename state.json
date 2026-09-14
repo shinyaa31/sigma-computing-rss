@@ -934,6 +934,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/fpa-at-scale-automate-reporting-analytics-with-sigma-databricks",
     "https://www.sigmacomputing.com/resources/webinars-and-events/from-data-to-dollars-tips-from-a-ceo-on-how-to-monetize-your-data",
     "https://www.sigmacomputing.com/resources/webinars-and-events/future-of-cloud-computing-where-to-put-your-money-in-2023-2024",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli",
     "https://www.sigmacomputing.com/resources/webinars-and-events/greenwich-hr-hits-a-new-multi-million-revenue-stream-using-embedded-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/high-growth-a-i-leaders-spill-their-secrets-to-success",
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-blackstone-accelerates-decisions-with-a-common-analytics-language",
@@ -1048,6 +1049,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli",
+      "title": "Getting started with sigma mcp and sigma cli",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-09-14T19:47:37.674489+00:00",
+      "pub_date": "2026-09-14T14:53:22+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt": {
       "url": "https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt",
       "title": "The Sigma Plugin Is Live for ChatGPT Work and Codex",
