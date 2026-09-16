@@ -985,6 +985,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/scenario-modeling-with-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/self-healing-semantic-layers-with-snowflake-cortex-ai",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-access-granted",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agentsatplayasciiart",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-an-admin-overview",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-data-apps-conference",
@@ -1049,6 +1050,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action",
+      "title": "Sigma agents announcement see our agents in action",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-09-16T21:09:49.145647+00:00",
+      "pub_date": "2026-09-16T20:58:41+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli",
       "title": "Getting started with sigma mcp and sigma cli",

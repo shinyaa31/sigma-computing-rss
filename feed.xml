@@ -5,8 +5,14 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:09:50 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sigma agents announcement see our agents in action</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action</guid>
+      <pubDate>Wed, 16 Sep 2026 20:58:41 +0000</pubDate>
+    </item>
     <item>
       <title>Getting started with sigma mcp and sigma cli</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli</link>
