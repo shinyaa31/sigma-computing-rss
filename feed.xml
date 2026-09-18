@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:45:02 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Migrating 1,000+ Tests to Playwright with Agentic Loops</title>
+      <link>https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>See how Sigma engineers combined AI agent harnesses with Sigma workbooks to migrate 1,000+ tests to Playwright in a month, with 90% less flake.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/15f1937609bf4ede3e27a55f917fdbab40f8b2e6-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Sigma agents announcement see our agents in action</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action</link>

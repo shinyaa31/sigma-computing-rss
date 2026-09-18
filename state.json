@@ -495,6 +495,7 @@
     "https://www.sigmacomputing.com/blog/pipeline-forecasting-workbook",
     "https://www.sigmacomputing.com/blog/pivot-table-secrets",
     "https://www.sigmacomputing.com/blog/pixel-perfect-reporting-live-warehouse-data",
+    "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops",
     "https://www.sigmacomputing.com/blog/postgres-input-tables-data-writeback",
     "https://www.sigmacomputing.com/blog/power-pivot",
     "https://www.sigmacomputing.com/blog/power-query-tools",
@@ -1050,6 +1051,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops": {
+      "url": "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops",
+      "title": "Migrating 1,000+ Tests to Playwright with Agentic Loops",
+      "description": "See how Sigma engineers combined AI agent harnesses with Sigma workbooks to migrate 1,000+ tests to Playwright in a month, with 90% less flake.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/15f1937609bf4ede3e27a55f917fdbab40f8b2e6-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-09-18T20:45:02.021593+00:00",
+      "pub_date": "2026-09-17T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action",
       "title": "Sigma agents announcement see our agents in action",
