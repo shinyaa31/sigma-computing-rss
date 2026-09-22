@@ -558,6 +558,7 @@
     "https://www.sigmacomputing.com/blog/sigma-ai-query",
     "https://www.sigmacomputing.com/blog/sigma-and-alteryx-apples-and-oranges",
     "https://www.sigmacomputing.com/blog/sigma-announces-expansion-to-aws-uk",
+    "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
     "https://www.sigmacomputing.com/blog/sigma-at-snowflake-summit-2023-recap",
     "https://www.sigmacomputing.com/blog/sigma-awarded-snowflake-bi-partner-of-the-year-2023",
     "https://www.sigmacomputing.com/blog/sigma-careers-helpfulness-velocity",
@@ -1051,6 +1052,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
+      "title": "The upgraded Sigma Assistant: your AI companion for open-ended data exploration",
+      "description": "See how Sigma Assistant clarifies ambiguous questions, shows its reasoning and SQL, and keeps a searchable history of every conversation.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product",
+      "first_seen": "2026-09-22T11:21:43.337351+00:00",
+      "pub_date": "2026-09-22T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops": {
       "url": "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops",
       "title": "Migrating 1,000+ Tests to Playwright with Agentic Loops",

@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:21:43 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The upgraded Sigma Assistant: your AI companion for open-ended data exploration</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-assistant-upgrade</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-upgrade</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>See how Sigma Assistant clarifies ambiguous questions, shows its reasoning and SQL, and keeps a searchable history of every conversation.</description>
+      <category>Product</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Migrating 1,000+ Tests to Playwright with Agentic Loops</title>
       <link>https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops</link>
