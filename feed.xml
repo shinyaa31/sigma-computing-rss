@@ -5,8 +5,35 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:57:37 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What Is a Data App? Why They Exist &amp; Use Cases</title>
+      <link>https://www.sigmacomputing.com/blog/data-app</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/data-app</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>A data app connects insights from live warehouse data with action in one place. Learn how data apps work and drive decisions.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/1b353b2cedd91af76222e890d512324b9a5ca142-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>What Is Data Reporting? Definition, Types &amp; Best Practices</title>
+      <link>https://www.sigmacomputing.com/blog/what-is-data-reporting</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-data-reporting</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Learn what data reporting is, the core types enterprises run, and the architectural choices that keep reporting accurate as more teams depend on it.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b0d4a02b234eec93012934bcd10e5e4b75fe9b6a-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>What Is Operational Reporting? Report Types and How to Build Them</title>
+      <link>https://www.sigmacomputing.com/blog/what-is-operational-reporting</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-operational-reporting</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Learn what operational reporting is, key report types, and how to build automated reports on live warehouse data.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/437c91e68b1f85b2e9dfb0b5e4afcd7b397fe4c4-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>The upgraded Sigma Assistant: your AI companion for open-ended data exploration</title>
       <link>https://www.sigmacomputing.com/blog/sigma-assistant-upgrade</link>
@@ -15,6 +42,42 @@
       <description>See how Sigma Assistant clarifies ambiguous questions, shows its reasoning and SQL, and keeps a searchable history of every conversation.</description>
       <category>Product</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>How to Approach Spreadsheet Governance</title>
+      <link>https://www.sigmacomputing.com/blog/spreadsheet-governance</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/spreadsheet-governance</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Spreadsheet governance works for some files, not all. Learn how to build real controls, and when persistent or regulated use means it's time to look past the spreadsheet itself.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/119626b1fd145e9ba2f4fb198a544349eb4ad311-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI Agents for Headcount Planning Software in 2026</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI agents for headcount planning keep plans current with live HR and finance data, reforecasting, flagging budget risk, and routing approvals.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/f8fc14ebeb0c2f7e55cc317132391f493ef54831-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Cloud Business Intelligence Solutions: Buyer's Guide</title>
+      <link>https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Compare cloud BI platforms on architecture, governance, and adoption. Learn what separates warehouse-native solutions from extract-based tools before you buy.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/81bfc6125181a1cc2ecb65aab77714458393468c-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI Agents for Demand Forecasting</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI agents for demand forecasting replace static, monthly plans with a live loop on warehouse data. Detect shifts and act before the next cycle begins.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6e74f12261ba04b27af4ec9cb7797fd3bf9f9883-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>Migrating 1,000+ Tests to Playwright with Agentic Loops</title>

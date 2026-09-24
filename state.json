@@ -42,7 +42,9 @@
     "https://www.sigmacomputing.com/blog/agile-analytics-provides-answers-for-daily-decision-making",
     "https://www.sigmacomputing.com/blog/agile-bi-reporting-workflows",
     "https://www.sigmacomputing.com/blog/ai-agents-automated-reporting",
+    "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting",
     "https://www.sigmacomputing.com/blog/ai-agents-eliminate-hours-of-repetitive-data-work",
+    "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software",
     "https://www.sigmacomputing.com/blog/ai-app-partner-portal",
     "https://www.sigmacomputing.com/blog/ai-apps-competitive-edge",
     "https://www.sigmacomputing.com/blog/ai-bi-crisis",
@@ -154,6 +156,7 @@
     "https://www.sigmacomputing.com/blog/classification-models",
     "https://www.sigmacomputing.com/blog/cloud-analytics",
     "https://www.sigmacomputing.com/blog/cloud-analytics-global-teams",
+    "https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions",
     "https://www.sigmacomputing.com/blog/cloud-native-vs-cloud-washed-data",
     "https://www.sigmacomputing.com/blog/clustering-models",
     "https://www.sigmacomputing.com/blog/cogs-data",
@@ -189,6 +192,7 @@
     "https://www.sigmacomputing.com/blog/data-and-analytics-strategy",
     "https://www.sigmacomputing.com/blog/data-anomalies",
     "https://www.sigmacomputing.com/blog/data-anonymization",
+    "https://www.sigmacomputing.com/blog/data-app",
     "https://www.sigmacomputing.com/blog/data-app-easy-scheduling-for-everyone",
     "https://www.sigmacomputing.com/blog/data-approval-workflows",
     "https://www.sigmacomputing.com/blog/data-apps-2025-product-launch",
@@ -625,6 +629,7 @@
     "https://www.sigmacomputing.com/blog/snowpark-and-sigma-open-machine-learning-to-business-teams",
     "https://www.sigmacomputing.com/blog/soc-2-primer",
     "https://www.sigmacomputing.com/blog/sox-compliance-bi",
+    "https://www.sigmacomputing.com/blog/spreadsheet-governance",
     "https://www.sigmacomputing.com/blog/sql-joins",
     "https://www.sigmacomputing.com/blog/sql-to-sigma-5-tips-for-getting-started",
     "https://www.sigmacomputing.com/blog/sql-visual-analytics",
@@ -710,8 +715,10 @@
     "https://www.sigmacomputing.com/blog/what-is-data-exploration",
     "https://www.sigmacomputing.com/blog/what-is-data-management",
     "https://www.sigmacomputing.com/blog/what-is-data-modeling",
+    "https://www.sigmacomputing.com/blog/what-is-data-reporting",
     "https://www.sigmacomputing.com/blog/what-is-data-visualization",
     "https://www.sigmacomputing.com/blog/what-is-embedded-analytics",
+    "https://www.sigmacomputing.com/blog/what-is-operational-reporting",
     "https://www.sigmacomputing.com/blog/what-is-the-purpose-of-business-data-analysis",
     "https://www.sigmacomputing.com/blog/what-is-time-series-analysis",
     "https://www.sigmacomputing.com/blog/what-is-writeback-in-embedded-analytics",
@@ -1052,6 +1059,33 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/data-app": {
+      "url": "https://www.sigmacomputing.com/blog/data-app",
+      "title": "What Is a Data App? Why They Exist & Use Cases",
+      "description": "A data app connects insights from live warehouse data with action in one place. Learn how data apps work and drive decisions.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/1b353b2cedd91af76222e890d512324b9a5ca142-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:33.446026+00:00",
+      "pub_date": "2026-09-24T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/what-is-data-reporting": {
+      "url": "https://www.sigmacomputing.com/blog/what-is-data-reporting",
+      "title": "What Is Data Reporting? Definition, Types & Best Practices",
+      "description": "Learn what data reporting is, the core types enterprises run, and the architectural choices that keep reporting accurate as more teams depend on it.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/b0d4a02b234eec93012934bcd10e5e4b75fe9b6a-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:34.732673+00:00",
+      "pub_date": "2026-09-24T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/what-is-operational-reporting": {
+      "url": "https://www.sigmacomputing.com/blog/what-is-operational-reporting",
+      "title": "What Is Operational Reporting? Report Types and How to Build Them",
+      "description": "Learn what operational reporting is, key report types, and how to build automated reports on live warehouse data.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/437c91e68b1f85b2e9dfb0b5e4afcd7b397fe4c4-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:37.237589+00:00",
+      "pub_date": "2026-09-24T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade": {
       "url": "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
       "title": "The upgraded Sigma Assistant: your AI companion for open-ended data exploration",
@@ -1059,6 +1093,42 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&w=1200&h=627&fit=crop&auto=format",
       "category": "Product",
       "first_seen": "2026-09-22T11:21:43.337351+00:00",
+      "pub_date": "2026-09-22T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/spreadsheet-governance": {
+      "url": "https://www.sigmacomputing.com/blog/spreadsheet-governance",
+      "title": "How to Approach Spreadsheet Governance",
+      "description": "Spreadsheet governance works for some files, not all. Learn how to build real controls, and when persistent or regulated use means it's time to look past the spreadsheet itself.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/119626b1fd145e9ba2f4fb198a544349eb4ad311-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:29.586787+00:00",
+      "pub_date": "2026-09-22T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software",
+      "title": "AI Agents for Headcount Planning Software in 2026",
+      "description": "AI agents for headcount planning keep plans current with live HR and finance data, reforecasting, flagging budget risk, and routing approvals.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/f8fc14ebeb0c2f7e55cc317132391f493ef54831-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:30.831861+00:00",
+      "pub_date": "2026-09-22T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions": {
+      "url": "https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions",
+      "title": "Cloud Business Intelligence Solutions: Buyer's Guide",
+      "description": "Compare cloud BI platforms on architecture, governance, and adoption. Learn what separates warehouse-native solutions from extract-based tools before you buy.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/81bfc6125181a1cc2ecb65aab77714458393468c-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:32.115764+00:00",
+      "pub_date": "2026-09-22T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting",
+      "title": "AI Agents for Demand Forecasting",
+      "description": "AI agents for demand forecasting replace static, monthly plans with a live loop on warehouse data. Detect shifts and act before the next cycle begins.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/6e74f12261ba04b27af4ec9cb7797fd3bf9f9883-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-24T16:57:35.990211+00:00",
       "pub_date": "2026-09-22T00:00:00+00:00"
     },
     "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops": {
