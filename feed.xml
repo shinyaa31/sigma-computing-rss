@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 21:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:36:12 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is Jev? How to use it in Sigma through MotherDuck</title>
+      <link>https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>See how Jev, TypeSafe AI's text classification model, runs in Sigma on MotherDuck, what it costs per row, and where AI columns fit.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/3ea61498b7789d43f7ba0019b410a1aa301afb42-3600x1890.png?rect=0,5,3600,1881&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>What Is a Data App? Why They Exist &amp; Use Cases</title>
       <link>https://www.sigmacomputing.com/blog/data-app</link>

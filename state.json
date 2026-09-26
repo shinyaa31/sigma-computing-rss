@@ -718,6 +718,7 @@
     "https://www.sigmacomputing.com/blog/what-is-data-reporting",
     "https://www.sigmacomputing.com/blog/what-is-data-visualization",
     "https://www.sigmacomputing.com/blog/what-is-embedded-analytics",
+    "https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck",
     "https://www.sigmacomputing.com/blog/what-is-operational-reporting",
     "https://www.sigmacomputing.com/blog/what-is-the-purpose-of-business-data-analysis",
     "https://www.sigmacomputing.com/blog/what-is-time-series-analysis",
@@ -1059,6 +1060,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck": {
+      "url": "https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck",
+      "title": "What is Jev? How to use it in Sigma through MotherDuck",
+      "description": "See how Jev, TypeSafe AI's text classification model, runs in Sigma on MotherDuck, what it costs per row, and where AI columns fit.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/3ea61498b7789d43f7ba0019b410a1aa301afb42-3600x1890.png?rect=0,5,3600,1881&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-09-26T04:36:11.894214+00:00",
+      "pub_date": "2026-09-25T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/data-app": {
       "url": "https://www.sigmacomputing.com/blog/data-app",
       "title": "What Is a Data App? Why They Exist & Use Cases",
