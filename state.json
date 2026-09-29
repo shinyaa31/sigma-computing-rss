@@ -44,7 +44,9 @@
     "https://www.sigmacomputing.com/blog/ai-agents-automated-reporting",
     "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting",
     "https://www.sigmacomputing.com/blog/ai-agents-eliminate-hours-of-repetitive-data-work",
+    "https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops",
     "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software",
+    "https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics",
     "https://www.sigmacomputing.com/blog/ai-app-partner-portal",
     "https://www.sigmacomputing.com/blog/ai-apps-competitive-edge",
     "https://www.sigmacomputing.com/blog/ai-bi-crisis",
@@ -894,6 +896,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-pto-tracker-app-in-sigma-public",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-and-scaling-ai-systems-in-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-data-products-faster-with-sigma-snowflake-and-dbt",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-pivot-tables-with-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-the-roadmap-for-real-time-data-and-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/business-driven-cohorts-unions-materialization-recording-2022",
@@ -1061,6 +1064,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude",
+      "title": "Building headless sigma agent experiences with claude",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-09-29T19:54:43.813244+00:00",
+      "pub_date": "2026-09-29T19:01:55+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale": {
       "url": "https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale",
       "title": "Sigma Agents Are Now GA: Scale AI Workflows Without the Sprawl",
@@ -1068,6 +1080,24 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/478e0309f852e5315f6318dea00a98aa80b086f9-3840x2160.png?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
       "category": "AI & Agents",
       "first_seen": "2026-09-29T05:22:22.769033+00:00",
+      "pub_date": "2026-09-29T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics",
+      "title": "AI Agents for Marketing Analytics: Uses & How to Implement",
+      "description": "AI agents for marketing analytics read live data, reason across channels, and act within governed rules. See key use cases and how to implement.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/e8173696789765f2de837f76cbc0ee65e5e95cf0-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-29T19:54:42.391300+00:00",
+      "pub_date": "2026-09-29T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops",
+      "title": "AI Agents for Sales & RevOps: Use Cases & Implementation",
+      "description": "Learn how AI agents for sales and RevOps work, key use cases like pipeline risk and approval routing, and how to implement them with governed warehouse data.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/277dc8948fa81d6df1f6bfa18831b5059f3f2d66-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-09-29T19:54:45.372200+00:00",
       "pub_date": "2026-09-29T00:00:00+00:00"
     },
     "https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck": {

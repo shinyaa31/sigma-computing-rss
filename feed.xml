@@ -5,8 +5,14 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 19:54:45 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building headless sigma agent experiences with claude</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude</guid>
+      <pubDate>Tue, 29 Sep 2026 19:01:55 +0000</pubDate>
+    </item>
     <item>
       <title>Sigma Agents Are Now GA: Scale AI Workflows Without the Sprawl</title>
       <link>https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale</link>
@@ -15,6 +21,24 @@
       <description>Run Sigma Agents from Claude, ChatGPT, your own apps, or a Sigma workbook, while admins track every agent's usage, access, and token spend.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/478e0309f852e5315f6318dea00a98aa80b086f9-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI Agents for Marketing Analytics: Uses &amp; How to Implement</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI agents for marketing analytics read live data, reason across channels, and act within governed rules. See key use cases and how to implement.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e8173696789765f2de837f76cbc0ee65e5e95cf0-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI Agents for Sales &amp; RevOps: Use Cases &amp; Implementation</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Learn how AI agents for sales and RevOps work, key use cases like pipeline risk and approval routing, and how to implement them with governed warehouse data.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/277dc8948fa81d6df1f6bfa18831b5059f3f2d66-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>What is Jev? How to use it in Sigma through MotherDuck</title>
