@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:22:23 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sigma Agents Are Now GA: Scale AI Workflows Without the Sprawl</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Run Sigma Agents from Claude, ChatGPT, your own apps, or a Sigma workbook, while admins track every agent's usage, access, and token spend.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/478e0309f852e5315f6318dea00a98aa80b086f9-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>What is Jev? How to use it in Sigma through MotherDuck</title>
       <link>https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck</link>

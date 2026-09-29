@@ -559,6 +559,7 @@
     "https://www.sigmacomputing.com/blog/shared-analytics-data-apps",
     "https://www.sigmacomputing.com/blog/sigma-2025-fivetran-partner-of-the-year",
     "https://www.sigmacomputing.com/blog/sigma-agents-data-models-warehouse-search",
+    "https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale",
     "https://www.sigmacomputing.com/blog/sigma-ai-query",
     "https://www.sigmacomputing.com/blog/sigma-and-alteryx-apples-and-oranges",
     "https://www.sigmacomputing.com/blog/sigma-announces-expansion-to-aws-uk",
@@ -1060,6 +1061,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-agents-enterprise-scale",
+      "title": "Sigma Agents Are Now GA: Scale AI Workflows Without the Sprawl",
+      "description": "Run Sigma Agents from Claude, ChatGPT, your own apps, or a Sigma workbook, while admins track every agent's usage, access, and token spend.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/478e0309f852e5315f6318dea00a98aa80b086f9-3840x2160.png?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-09-29T05:22:22.769033+00:00",
+      "pub_date": "2026-09-29T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck": {
       "url": "https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck",
       "title": "What is Jev? How to use it in Sigma through MotherDuck",
