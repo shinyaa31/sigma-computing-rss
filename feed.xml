@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:54:22 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Sigma's Data Platform Team Manages the Semantic Layer with Dagster and dbt</title>
+      <link>https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Learn how Sigma's data team defines its semantic layer as code in dbt and deploys it with Dagster, so every merge to main ships updated Sigma data models.</description>
+      <category>Engineering</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/0a4daedd2cc3a165240c40c28c893117d1e38d06-2494x1309.png?rect=0,4,2494,1303&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Building headless sigma agent experiences with claude</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude</link>

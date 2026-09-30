@@ -554,6 +554,7 @@
     "https://www.sigmacomputing.com/blog/self-service-analytics-revolution",
     "https://www.sigmacomputing.com/blog/self-service-business-intelligence",
     "https://www.sigmacomputing.com/blog/self-service-data-apps",
+    "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster",
     "https://www.sigmacomputing.com/blog/server-management",
     "https://www.sigmacomputing.com/blog/serverless-analytics",
     "https://www.sigmacomputing.com/blog/set-up-snowflake-monitoring-quickly-with-sigma-templates",
@@ -1064,6 +1065,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster": {
+      "url": "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster",
+      "title": "How Sigma's Data Platform Team Manages the Semantic Layer with Dagster and dbt",
+      "description": "Learn how Sigma's data team defines its semantic layer as code in dbt and deploys it with Dagster, so every merge to main ships updated Sigma data models.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/0a4daedd2cc3a165240c40c28c893117d1e38d06-2494x1309.png?rect=0,4,2494,1303&w=1200&h=627&fit=crop&auto=format",
+      "category": "Engineering",
+      "first_seen": "2026-09-30T17:54:21.542861+00:00",
+      "pub_date": "2026-09-30T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/building-headless-sigma-agent-experiences-with-claude",
       "title": "Building headless sigma agent experiences with claude",
