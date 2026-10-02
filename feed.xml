@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:03:16 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Build a Sigma App with the Sigma MCP and CLI</title>
+      <link>https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Connect any AI assistant to Sigma MCP, build a working app from one plain-language request, and automate admin tasks with the CLI. Follow 6 steps.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Agentic Automation in Data Analysis: Definition, Benefits, and Best Practices</title>
       <link>https://www.sigmacomputing.com/blog/agentic-automation-data-analysis</link>

@@ -131,6 +131,7 @@
     "https://www.sigmacomputing.com/blog/budget-variance-data-app",
     "https://www.sigmacomputing.com/blog/build-governed-apps-coding-agent",
     "https://www.sigmacomputing.com/blog/build-sigma-agent-data-modeling",
+    "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli",
     "https://www.sigmacomputing.com/blog/build-your-march-madness-bracket-with-historical-data-through-sigma",
     "https://www.sigmacomputing.com/blog/building-a-data-lake-or-data-warehouse-in-the-cloud-heres-what-you-need-to-know",
     "https://www.sigmacomputing.com/blog/building-a-modern-cloud-analytics-stack-a-guide-for-data-driven-companies",
@@ -1066,6 +1067,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli": {
+      "url": "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli",
+      "title": "Build a Sigma App with the Sigma MCP and CLI",
+      "description": "Connect any AI assistant to Sigma MCP, build a working app from one plain-language request, and automate admin tasks with the CLI. Follow 6 steps.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-10-02T22:03:15.978131+00:00",
+      "pub_date": "2026-10-02T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis": {
       "url": "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis",
       "title": "Agentic Automation in Data Analysis: Definition, Benefits, and Best Practices",
