@@ -39,6 +39,7 @@
     "https://www.sigmacomputing.com/blog/agent-builder-assistant",
     "https://www.sigmacomputing.com/blog/agentic-ai-use-cases",
     "https://www.sigmacomputing.com/blog/agentic-analytics",
+    "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis",
     "https://www.sigmacomputing.com/blog/agile-analytics-provides-answers-for-daily-decision-making",
     "https://www.sigmacomputing.com/blog/agile-bi-reporting-workflows",
     "https://www.sigmacomputing.com/blog/ai-agents-automated-reporting",
@@ -1065,6 +1066,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis": {
+      "url": "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis",
+      "title": "Agentic Automation in Data Analysis: Definition, Benefits, and Best Practices",
+      "description": "Learn what agentic automation means for analytics teams, why it matters, and the governance, controls, and audit trails it needs to run safely.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/275982e976fee900ea19c1518917dcf80261637a-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-10-02T00:37:51.988214+00:00",
+      "pub_date": "2026-10-01T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster": {
       "url": "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster",
       "title": "How Sigma's Data Platform Team Manages the Semantic Layer with Dagster and dbt",
