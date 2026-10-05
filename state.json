@@ -484,6 +484,7 @@
     "https://www.sigmacomputing.com/blog/navigating-key-data-and-ai-trends-at-databricks-data-and-ai-summit-2024",
     "https://www.sigmacomputing.com/blog/new-in-sigma-august-2026",
     "https://www.sigmacomputing.com/blog/new-in-sigma-july-2026",
+    "https://www.sigmacomputing.com/blog/new-in-sigma-september-2026",
     "https://www.sigmacomputing.com/blog/new-on-sigma-spring-2026",
     "https://www.sigmacomputing.com/blog/no-code-data-apps",
     "https://www.sigmacomputing.com/blog/no-code-predictive-analytics-forecasting",
@@ -1074,6 +1075,15 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "AI & Agents",
       "first_seen": "2026-10-02T22:03:15.978131+00:00",
+      "pub_date": "2026-10-02T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/new-in-sigma-september-2026": {
+      "url": "https://www.sigmacomputing.com/blog/new-in-sigma-september-2026",
+      "title": "New in Sigma September 2026: Agents & ChatGPT | Sigma",
+      "description": "See what shipped in Sigma in September: agents that act from Claude or ChatGPT, dashboards built from a prompt, and reports that become decks in one click.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/31c37998b532e925f70383a1828097cdca571e0b-3840x2016.png?rect=0,5,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product",
+      "first_seen": "2026-10-05T21:56:06.444908+00:00",
       "pub_date": "2026-10-02T00:00:00+00:00"
     },
     "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis": {

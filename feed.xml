@@ -5,7 +5,7 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:56:06 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Build a Sigma App with the Sigma MCP and CLI</title>
@@ -15,6 +15,15 @@
       <description>Connect any AI assistant to Sigma MCP, build a working app from one plain-language request, and automate admin tasks with the CLI. Follow 6 steps.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>New in Sigma September 2026: Agents &amp; ChatGPT | Sigma</title>
+      <link>https://www.sigmacomputing.com/blog/new-in-sigma-september-2026</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/new-in-sigma-september-2026</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>See what shipped in Sigma in September: agents that act from Claude or ChatGPT, dashboards built from a prompt, and reports that become decks in one click.</description>
+      <category>Product</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/31c37998b532e925f70383a1828097cdca571e0b-3840x2016.png?rect=0,5,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>Agentic Automation in Data Analysis: Definition, Benefits, and Best Practices</title>
