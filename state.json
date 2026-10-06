@@ -569,6 +569,7 @@
     "https://www.sigmacomputing.com/blog/sigma-ai-query",
     "https://www.sigmacomputing.com/blog/sigma-and-alteryx-apples-and-oranges",
     "https://www.sigmacomputing.com/blog/sigma-announces-expansion-to-aws-uk",
+    "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
     "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
     "https://www.sigmacomputing.com/blog/sigma-at-snowflake-summit-2023-recap",
     "https://www.sigmacomputing.com/blog/sigma-awarded-snowflake-bi-partner-of-the-year-2023",
@@ -1068,6 +1069,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
+      "title": "Sigma Assistant Build Mode Is GA: Generate Dashboards and Apps in Minutes",
+      "description": "Start building governed dashboards and apps in Sigma by describing them. Sigma Assistant builds editable workbook elements on live warehouse data.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/c89034207481ff5df53cae29bdbfa6869dd065ab-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-10-06T05:57:01.987157+00:00",
+      "pub_date": "2026-10-06T05:57:01.987157+00:00"
+    },
     "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli": {
       "url": "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli",
       "title": "Build a Sigma App with the Sigma MCP and CLI",

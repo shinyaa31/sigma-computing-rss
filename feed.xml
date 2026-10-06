@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 21:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:57:02 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sigma Assistant Build Mode Is GA: Generate Dashboards and Apps in Minutes</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-assistant-build-mode</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-build-mode</guid>
+      <pubDate>Tue, 06 Oct 2026 05:57:01 +0000</pubDate>
+      <description>Start building governed dashboards and apps in Sigma by describing them. Sigma Assistant builds editable workbook elements on live warehouse data.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c89034207481ff5df53cae29bdbfa6869dd065ab-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Build a Sigma App with the Sigma MCP and CLI</title>
       <link>https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli</link>
