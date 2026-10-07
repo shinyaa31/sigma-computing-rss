@@ -897,6 +897,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/born-to-build-building-with-claude-code-in-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/born-to-build-part-1-when-your-data-starts-doing-the-work",
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-and-automate-pixel-perfect-reports-in-sigma",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-data-synchronized-business-with-a-modern-data-stack",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-pto-tracker-app-in-sigma-public",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-and-scaling-ai-systems-in-sigma",
@@ -1069,6 +1070,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok",
+      "title": "Build sigma apps with a single prompt using chatgpt and grok",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-10-07T18:46:34.585268+00:00",
+      "pub_date": "2026-10-07T16:22:17+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode": {
       "url": "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
       "title": "Sigma Assistant Build Mode Is GA: Generate Dashboards and Apps in Minutes",
