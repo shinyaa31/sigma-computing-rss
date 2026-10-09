@@ -898,6 +898,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/born-to-build-building-with-claude-code-in-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/born-to-build-part-1-when-your-data-starts-doing-the-work",
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-and-automate-pixel-perfect-reports-in-sigma",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt",
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-data-synchronized-business-with-a-modern-data-stack",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-pto-tracker-app-in-sigma-public",
@@ -1005,6 +1006,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/say-goodbye-to-tableaus-legacy-bi-with-ai-powered-migrations-from-sigma-and-hakkoda",
     "https://www.sigmacomputing.com/resources/webinars-and-events/scenario-modeling-with-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/self-healing-semantic-layers-with-snowflake-cortex-ai",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-access-granted",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action",
     "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agentsatplayasciiart",
@@ -1071,6 +1073,24 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma",
+      "title": "Setting up claude skills for sigma",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-10-09T18:14:57.221240+00:00",
+      "pub_date": "2026-10-09T16:49:30+00:00"
+    },
+    "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt",
+      "title": "Build sigma apps with a single prompt using chatgpt",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-10-09T18:14:58.776552+00:00",
+      "pub_date": "2026-10-09T16:48:44+00:00"
+    },
     "https://www.sigmacomputing.com/blog/claude-dashboards": {
       "url": "https://www.sigmacomputing.com/blog/claude-dashboards",
       "title": "Claude Dashboards: Prototype in Claude, Send to Sigma",
