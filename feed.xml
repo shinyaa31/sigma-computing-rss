@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:07:13 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Dashboards: Prototype in Claude, Send to Sigma</title>
+      <link>https://www.sigmacomputing.com/blog/claude-dashboards</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/claude-dashboards</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Turn your Claude dashboard prototype into a governed, shareable workbook by sending it to Sigma, or build it into a larger app.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/53f56527aa36c7ce5dc4ff24689c9d9df604c056-1280x720.png?rect=0,26,1280,669&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Build sigma apps with a single prompt using chatgpt and grok</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok</link>
