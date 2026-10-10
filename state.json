@@ -1051,6 +1051,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/teachable-reimagined-its-analytics-workflow-with-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/the-modern-data-stack-roadblocks-and-new-possibilities",
     "https://www.sigmacomputing.com/resources/webinars-and-events/the-well-on-demand-webinar",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization",
     "https://www.sigmacomputing.com/resources/webinars-and-events/unleashing-the-power-of-modern-analytics-why-sigma-outperforms-thoughtspot",
     "https://www.sigmacomputing.com/resources/webinars-and-events/unlock-the-true-potential-of-your-data-team-with-live-edit-2",
     "https://www.sigmacomputing.com/resources/webinars-and-events/unlocking-embedded-analytics-a-masterclass-for-product-leaders",
@@ -1073,6 +1074,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization",
+      "title": "Turn complex scheduling into a sigma app with self service optimization",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-10-10T00:39:57.042757+00:00",
+      "pub_date": "2026-10-09T19:24:05+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma",
       "title": "Setting up claude skills for sigma",

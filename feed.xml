@@ -5,8 +5,14 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:39:57 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Turn complex scheduling into a sigma app with self service optimization</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization</guid>
+      <pubDate>Fri, 09 Oct 2026 19:24:05 +0000</pubDate>
+    </item>
     <item>
       <title>Setting up claude skills for sigma</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma</link>
