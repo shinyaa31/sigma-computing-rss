@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:24:13 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sigma AI Labs: Summer 2026 Intern Program Recap</title>
+      <link>https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>See how four PhD researchers spent a summer of innovation and applied engineering at Sigma AI Labs.</description>
+      <category>Company &amp; Customers</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6d65677f2d4a2eebc5f4ab49653a1963476cf6ad-3840x2016.avif?rect=0,5,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>What is manufacturing analytics? Benefits and use cases</title>
       <link>https://www.sigmacomputing.com/blog/what-is-manufacturing-analytics</link>
@@ -423,15 +432,6 @@
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma</link>
       <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma</guid>
       <pubDate>Tue, 08 Sep 2026 15:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Export Sigma Reports to PowerPoint in One Click</title>
-      <link>https://www.sigmacomputing.com/blog/powerpoint-exports</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/powerpoint-exports</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Export Sigma reports to PowerPoint. Every deck runs on live warehouse data and inherits the permissions on your report.</description>
-      <category>Product</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9b8ab212b041e0b9a178d0f330a26608c8931830-2432x1276.png?rect=0,3,2432,1271&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

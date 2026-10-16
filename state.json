@@ -62,6 +62,7 @@
     "https://www.sigmacomputing.com/blog/ai-for-data-analysis",
     "https://www.sigmacomputing.com/blog/ai-for-data-blending",
     "https://www.sigmacomputing.com/blog/ai-in-excel-vs-bi",
+    "https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns",
     "https://www.sigmacomputing.com/blog/ai-layers",
     "https://www.sigmacomputing.com/blog/ai-machine-learning-bi-solutions",
     "https://www.sigmacomputing.com/blog/ai-ml-bi-tools",
@@ -1090,6 +1091,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns": {
+      "url": "https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns",
+      "title": "Sigma AI Labs: Summer 2026 Intern Program Recap",
+      "description": "See how four PhD researchers spent a summer of innovation and applied engineering at Sigma AI Labs.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/6d65677f2d4a2eebc5f4ab49653a1963476cf6ad-3840x2016.avif?rect=0,5,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "Company & Customers",
+      "first_seen": "2026-10-16T23:24:12.789099+00:00",
+      "pub_date": "2026-10-16T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/what-is-manufacturing-analytics": {
       "url": "https://www.sigmacomputing.com/blog/what-is-manufacturing-analytics",
       "title": "What is manufacturing analytics? Benefits and use cases",
@@ -1530,15 +1540,6 @@
       "category": null,
       "first_seen": "2026-09-13T12:58:51.654780+00:00",
       "pub_date": "2026-09-08T15:22:34+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/powerpoint-exports": {
-      "url": "https://www.sigmacomputing.com/blog/powerpoint-exports",
-      "title": "Export Sigma Reports to PowerPoint in One Click",
-      "description": "Export Sigma reports to PowerPoint. Every deck runs on live warehouse data and inherits the permissions on your report.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/9b8ab212b041e0b9a178d0f330a26608c8931830-2432x1276.png?rect=0,3,2432,1271&w=1200&h=627&fit=crop&auto=format",
-      "category": "Product",
-      "first_seen": "2026-09-13T12:58:54.586544+00:00",
-      "pub_date": "2026-09-03T00:00:00+00:00"
     }
   }
 }
