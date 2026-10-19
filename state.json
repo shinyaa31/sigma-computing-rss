@@ -906,6 +906,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/analytics-wonderland-new-york",
     "https://www.sigmacomputing.com/resources/webinars-and-events/analytics-wonderland-virtual",
     "https://www.sigmacomputing.com/resources/webinars-and-events/anyone-can-ai-with-sigma",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/automating-and-optimizing-financial-services-with-cloud-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/behind-the-build-the-golden-goat-winning-app",
@@ -1091,6 +1092,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma",
+      "title": "Ask Your Data Anything: Inside Extreme Networks' AI Agent Built on Snowflake Semantic Views and Sigma",
+      "description": "behind-the-scenes look at Ask EDNA, the AI agent Extreme Networks built for conversational data discovery using Snowflake Semantic Views and Sigma",
+      "image": "https://www.snowflake.com/content/dam/snowflake-site/lp/soc-Ask-Your-Data-Anything-1200x628.jpg",
+      "category": "Customer Webinar",
+      "first_seen": "2026-10-19T20:30:09.700140+00:00",
+      "pub_date": "2026-10-19T18:10:21+00:00"
+    },
     "https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns": {
       "url": "https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns",
       "title": "Sigma AI Labs: Summer 2026 Intern Program Recap",
@@ -1531,15 +1541,6 @@
       "category": "Product",
       "first_seen": "2026-09-13T12:58:50.470567+00:00",
       "pub_date": "2026-09-09T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma",
-      "title": "Automate the manual work of fp and a with ai and sigma",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-09-13T12:58:51.654780+00:00",
-      "pub_date": "2026-09-08T15:22:34+00:00"
     }
   }
 }

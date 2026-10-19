@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:48:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:30:10 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ask Your Data Anything: Inside Extreme Networks' AI Agent Built on Snowflake Semantic Views and Sigma</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma</guid>
+      <pubDate>Mon, 19 Oct 2026 18:10:21 +0000</pubDate>
+      <description>behind-the-scenes look at Ask EDNA, the AI agent Extreme Networks built for conversational data discovery using Snowflake Semantic Views and Sigma</description>
+      <category>Customer Webinar</category>
+      <enclosure url="https://www.snowflake.com/content/dam/snowflake-site/lp/soc-Ask-Your-Data-Anything-1200x628.jpg" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Sigma AI Labs: Summer 2026 Intern Program Recap</title>
       <link>https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns</link>
@@ -426,12 +435,6 @@
       <description>Convert a Sigma workbook into a paginated, on-brand report with live data. Skip rebuilding layouts, headers, and formatting by hand.</description>
       <category>Product</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/211a79a4169c5056faf624a5be4a0361672ffb71-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Automate the manual work of fp and a with ai and sigma</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/automate-the-manual-work-of-fp-and-a-with-ai-and-sigma</guid>
-      <pubDate>Tue, 08 Sep 2026 15:22:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
