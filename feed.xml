@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:22:49 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Report Bursting at Enterprise Scale: Up to 20,000 Recipients</title>
+      <link>https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Learn how Sigma report bursting sends each recipient a filtered PDF, Excel, or PowerPoint file from one schedule, with no code or report server.</description>
+      <category>Analytics &amp; Reporting</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9d64c8a11f03de0ad2cfeb9cbe9558dd08f3c756-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Ask Your Data Anything: Inside Extreme Networks' AI Agent Built on Snowflake Semantic Views and Sigma</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma</link>
@@ -426,15 +435,6 @@
       <description>Custom AI agents for data analytics can deliver repeatable answers on governed warehouse data. Learn what it takes to build one for production.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9490f6110318d2fd53800d3d721ee0a480869b4f-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Workbook to Report Converter: Pixel-Perfect Reports in 1 Click</title>
-      <link>https://www.sigmacomputing.com/blog/workbook-to-report-converter</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/workbook-to-report-converter</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Convert a Sigma workbook into a paginated, on-brand report with live data. Skip rebuilding layouts, headers, and formatting by hand.</description>
-      <category>Product</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/211a79a4169c5056faf624a5be4a0361672ffb71-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

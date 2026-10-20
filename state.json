@@ -350,6 +350,7 @@
     "https://www.sigmacomputing.com/blog/expedite-the-clinical-trial-process",
     "https://www.sigmacomputing.com/blog/expensigma-ai-app",
     "https://www.sigmacomputing.com/blog/exploring-community-driven-analytics-and-bi",
+    "https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale",
     "https://www.sigmacomputing.com/blog/fast-tracking-data-transformation-in-emea-with-sigma-and-crayon-consulting",
     "https://www.sigmacomputing.com/blog/finance-workflows-spreadsheets",
     "https://www.sigmacomputing.com/blog/financial-analytics",
@@ -1092,6 +1093,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale": {
+      "url": "https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale",
+      "title": "Report Bursting at Enterprise Scale: Up to 20,000 Recipients",
+      "description": "Learn how Sigma report bursting sends each recipient a filtered PDF, Excel, or PowerPoint file from one schedule, with no code or report server.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/9d64c8a11f03de0ad2cfeb9cbe9558dd08f3c756-3840x2160.png?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "Analytics & Reporting",
+      "first_seen": "2026-10-20T08:22:48.796231+00:00",
+      "pub_date": "2026-10-20T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/ask-your-data-anything-on-sigma",
       "title": "Ask Your Data Anything: Inside Extreme Networks' AI Agent Built on Snowflake Semantic Views and Sigma",
@@ -1531,15 +1541,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/9490f6110318d2fd53800d3d721ee0a480869b4f-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-09-13T12:58:45.853049+00:00",
-      "pub_date": "2026-09-09T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/workbook-to-report-converter": {
-      "url": "https://www.sigmacomputing.com/blog/workbook-to-report-converter",
-      "title": "Workbook to Report Converter: Pixel-Perfect Reports in 1 Click",
-      "description": "Convert a Sigma workbook into a paginated, on-brand report with live data. Skip rebuilding layouts, headers, and formatting by hand.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/211a79a4169c5056faf624a5be4a0361672ffb71-3840x2160.png?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
-      "category": "Product",
-      "first_seen": "2026-09-13T12:58:50.470567+00:00",
       "pub_date": "2026-09-09T00:00:00+00:00"
     }
   }
