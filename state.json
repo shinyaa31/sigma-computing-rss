@@ -979,6 +979,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/greenwich-hr-hits-a-new-multi-million-revenue-stream-using-embedded-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/high-growth-a-i-leaders-spill-their-secrets-to-success",
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-blackstone-accelerates-decisions-with-a-common-analytics-language",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life",
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-i-made-poker-in-sigma",
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-ipipeline-leverages-sigma-to-enable-data-sharing-and-self-service-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-metrikus-leveraged-sigma-to-increase-operational-efficiencies",
@@ -1093,6 +1094,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life",
+      "title": "How claude and the sigma mcp plugin changed my life",
+      "description": "",
+      "image": null,
+      "category": null,
+      "first_seen": "2026-10-20T23:44:06.205159+00:00",
+      "pub_date": "2026-10-20T21:33:12+00:00"
+    },
     "https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale": {
       "url": "https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale",
       "title": "Report Bursting at Enterprise Scale: Up to 20,000 Recipients",
@@ -1532,15 +1542,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/bdb8b451b2299f617556bcf88917e8d33ba2531c-1200x628.png?rect=0,1,1200,627&w=1200&h=627&fit=crop&auto=format",
       "category": "Webinars & Events",
       "first_seen": "2026-09-13T12:58:44.678078+00:00",
-      "pub_date": "2026-09-09T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/custom-ai-agents-data-analytics": {
-      "url": "https://www.sigmacomputing.com/blog/custom-ai-agents-data-analytics",
-      "title": "Custom AI Agents for Data Analytics: Build One That Works",
-      "description": "Custom AI agents for data analytics can deliver repeatable answers on governed warehouse data. Learn what it takes to build one for production.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/9490f6110318d2fd53800d3d721ee0a480869b4f-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-13T12:58:45.853049+00:00",
       "pub_date": "2026-09-09T00:00:00+00:00"
     }
   }

@@ -5,8 +5,14 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:44:07 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How claude and the sigma mcp plugin changed my life</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life</guid>
+      <pubDate>Tue, 20 Oct 2026 21:33:12 +0000</pubDate>
+    </item>
     <item>
       <title>Report Bursting at Enterprise Scale: Up to 20,000 Recipients</title>
       <link>https://www.sigmacomputing.com/blog/export-bursting-enterprise-scale</link>
@@ -426,15 +432,6 @@
       <description>Learn how to set up your AI harness, connect tools like Claude Code to Sigma, and start building AI-powered apps.</description>
       <category>Webinars &amp; Events</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/bdb8b451b2299f617556bcf88917e8d33ba2531c-1200x628.png?rect=0,1,1200,627&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Custom AI Agents for Data Analytics: Build One That Works</title>
-      <link>https://www.sigmacomputing.com/blog/custom-ai-agents-data-analytics</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/custom-ai-agents-data-analytics</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Custom AI agents for data analytics can deliver repeatable answers on governed warehouse data. Learn what it takes to build one for production.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9490f6110318d2fd53800d3d721ee0a480869b4f-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
