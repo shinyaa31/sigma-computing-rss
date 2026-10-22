@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 16:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:25:00 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How we rebuilt Sigma’s AI agent to be cheaper and faster for customers</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Learn how replacing subagents with a coding agent and a typed Python SDK made Sigma Assistant build mode 3x faster on app builds at a third of the cost.</description>
+      <category>Engineering</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/286b10b08bf0cb26bf0a7829a9ff7bb7380fcd37-3840x2160.avif?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Can you vibe code your own Sigma alternative? Why AI plus a data warehouse is not enough</title>
       <link>https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform</link>
@@ -423,15 +432,6 @@
       <description>Join us in Las Vegas, where the industry's leading Financial Services innovators come together to connect and create the future of money. Buy your pass today!</description>
       <category>YOU HAVE HOURS LEFT TO SAVE</category>
       <enclosure url="//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>dbt Summit in Las Vegas | September 15-18</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-dbtsummit-2026</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-dbtsummit-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 21:37:37 +0000</pubDate>
-      <description>dbt Summit is the world’s largest gathering of dbt community members. Join data leaders, and practitioners to shape the future of data &amp; AI.</description>
-      <category>Las Vegas</category>
-      <enclosure url="https://www.getdbt.com/dbt-summit/dbt-summit-social-register-2026.png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

@@ -587,6 +587,7 @@
     "https://www.sigmacomputing.com/blog/sigma-and-alteryx-apples-and-oranges",
     "https://www.sigmacomputing.com/blog/sigma-announces-expansion-to-aws-uk",
     "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
+    "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster",
     "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
     "https://www.sigmacomputing.com/blog/sigma-at-snowflake-summit-2023-recap",
     "https://www.sigmacomputing.com/blog/sigma-awarded-snowflake-bi-partner-of-the-year-2023",
@@ -1095,6 +1096,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster",
+      "title": "How we rebuilt Sigma’s AI agent to be cheaper and faster for customers",
+      "description": "Learn how replacing subagents with a coding agent and a typed Python SDK made Sigma Assistant build mode 3x faster on app builds at a third of the cost.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/286b10b08bf0cb26bf0a7829a9ff7bb7380fcd37-3840x2160.avif?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "Engineering",
+      "first_seen": "2026-10-22T21:25:00.483771+00:00",
+      "pub_date": "2026-10-22T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform": {
       "url": "https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform",
       "title": "Can you vibe code your own Sigma alternative? Why AI plus a data warehouse is not enough",
@@ -1535,15 +1545,6 @@
       "category": "YOU HAVE HOURS LEFT TO SAVE",
       "first_seen": "2026-09-13T12:58:47.082409+00:00",
       "pub_date": "2026-09-09T21:38:06+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-dbtsummit-2026": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-dbtsummit-2026",
-      "title": "dbt Summit in Las Vegas | September 15-18",
-      "description": "dbt Summit is the world’s largest gathering of dbt community members. Join data leaders, and practitioners to shape the future of data & AI.",
-      "image": "https://www.getdbt.com/dbt-summit/dbt-summit-social-register-2026.png",
-      "category": "Las Vegas",
-      "first_seen": "2026-09-13T12:58:48.871140+00:00",
-      "pub_date": "2026-09-09T21:37:37+00:00"
     }
   }
 }
