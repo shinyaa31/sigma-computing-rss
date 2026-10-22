@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:18:02 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can you vibe code your own Sigma alternative? Why AI plus a data warehouse is not enough</title>
+      <link>https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Vibe coding an analytics app on your data warehouse is easy. Learn what an AI analytics platform needs before thousands of people rely on it.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/ffce5cb7c08f9d6ea87374cad5feef05bf67d4a5-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>How claude and the sigma mcp plugin changed my life</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life</link>
@@ -423,15 +432,6 @@
       <description>dbt Summit is the world’s largest gathering of dbt community members. Join data leaders, and practitioners to shape the future of data &amp; AI.</description>
       <category>Las Vegas</category>
       <enclosure url="https://www.getdbt.com/dbt-summit/dbt-summit-social-register-2026.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Set Up your Coding Agent and Start Building in Sigma</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/how-to-set-up-your-coding-agent-for-building-in-sigma</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/how-to-set-up-your-coding-agent-for-building-in-sigma</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Learn how to set up your AI harness, connect tools like Claude Code to Sigma, and start building AI-powered apps.</description>
-      <category>Webinars &amp; Events</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/bdb8b451b2299f617556bcf88917e8d33ba2531c-1200x628.png?rect=0,1,1200,627&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

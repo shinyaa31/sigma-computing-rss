@@ -726,6 +726,7 @@
     "https://www.sigmacomputing.com/blog/veronica-beard-slashes-acquisition-costs-and-boosts-return-on-ad-spend-with-sigma",
     "https://www.sigmacomputing.com/blog/vertical-ai-agents",
     "https://www.sigmacomputing.com/blog/vibe-code-governance",
+    "https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform",
     "https://www.sigmacomputing.com/blog/visual-data-exploration-potential",
     "https://www.sigmacomputing.com/blog/visualize-location-data-with-sigma-maps",
     "https://www.sigmacomputing.com/blog/warehouse-management-systems",
@@ -1094,6 +1095,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform": {
+      "url": "https://www.sigmacomputing.com/blog/vibe-coding-analytics-platform",
+      "title": "Can you vibe code your own Sigma alternative? Why AI plus a data warehouse is not enough",
+      "description": "Vibe coding an analytics app on your data warehouse is easy. Learn what an AI analytics platform needs before thousands of people rely on it.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/ffce5cb7c08f9d6ea87374cad5feef05bf67d4a5-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-10-22T04:18:02.425585+00:00",
+      "pub_date": "2026-10-21T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life",
       "title": "How claude and the sigma mcp plugin changed my life",
@@ -1534,15 +1544,6 @@
       "category": "Las Vegas",
       "first_seen": "2026-09-13T12:58:48.871140+00:00",
       "pub_date": "2026-09-09T21:37:37+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/how-to-set-up-your-coding-agent-for-building-in-sigma": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/how-to-set-up-your-coding-agent-for-building-in-sigma",
-      "title": "Set Up your Coding Agent and Start Building in Sigma",
-      "description": "Learn how to set up your AI harness, connect tools like Claude Code to Sigma, and start building AI-powered apps.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/bdb8b451b2299f617556bcf88917e8d33ba2531c-1200x628.png?rect=0,1,1200,627&w=1200&h=627&fit=crop&auto=format",
-      "category": "Webinars & Events",
-      "first_seen": "2026-09-13T12:58:44.678078+00:00",
-      "pub_date": "2026-09-09T00:00:00+00:00"
     }
   }
 }
