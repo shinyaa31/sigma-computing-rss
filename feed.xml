@@ -5,7 +5,7 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:52:11 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>How we rebuilt Sigma’s AI agent to be cheaper and faster for customers</title>
@@ -24,6 +24,15 @@
       <description>Vibe coding an analytics app on your data warehouse is easy. Learn what an AI analytics platform needs before thousands of people rely on it.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/ffce5cb7c08f9d6ea87374cad5feef05bf67d4a5-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Introducing the Excel migration skill: Turn a spreadsheet forecast into a live Sigma app</title>
+      <link>https://www.sigmacomputing.com/blog/excel-to-sigma-migration-skill</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/excel-to-sigma-migration-skill</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Migrate Excel forecasts to Sigma with editable assumptions, connected calculations, and verification against the original workbook.</description>
+      <category>Product Updates</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9d774c395ad292f6e882c9e1dd869267a2560583-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>How claude and the sigma mcp plugin changed my life</title>
@@ -423,15 +432,6 @@
       <description>Build interactive dashboards and answer data questions with the Sigma plugin, now available in ChatGPT Work and Codex.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b4ccfcc5113d746280971d7b21406adb8f71fe6a-3600x2025.png?rect=0,73,3600,1881&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Money20/20 USA in Las Vegas | October 18-21, 2026</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-money-2020-2026</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-money-2020-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 21:38:06 +0000</pubDate>
-      <description>Join us in Las Vegas, where the industry's leading Financial Services innovators come together to connect and create the future of money. Buy your pass today!</description>
-      <category>YOU HAVE HOURS LEFT TO SAVE</category>
-      <enclosure url="//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

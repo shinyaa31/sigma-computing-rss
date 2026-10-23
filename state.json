@@ -344,6 +344,7 @@
     "https://www.sigmacomputing.com/blog/everything-new-weve-launched-in-our-product-this-year",
     "https://www.sigmacomputing.com/blog/excel-alternatives-for-data-analysts",
     "https://www.sigmacomputing.com/blog/excel-macros-vs-data-apps",
+    "https://www.sigmacomputing.com/blog/excel-to-sigma-migration-skill",
     "https://www.sigmacomputing.com/blog/excel-to-sql-query",
     "https://www.sigmacomputing.com/blog/excel-vs-sigma",
     "https://www.sigmacomputing.com/blog/executive-dashboards",
@@ -1114,6 +1115,15 @@
       "first_seen": "2026-10-22T04:18:02.425585+00:00",
       "pub_date": "2026-10-21T00:00:00+00:00"
     },
+    "https://www.sigmacomputing.com/blog/excel-to-sigma-migration-skill": {
+      "url": "https://www.sigmacomputing.com/blog/excel-to-sigma-migration-skill",
+      "title": "Introducing the Excel migration skill: Turn a spreadsheet forecast into a live Sigma app",
+      "description": "Migrate Excel forecasts to Sigma with editable assumptions, connected calculations, and verification against the original workbook.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/9d774c395ad292f6e882c9e1dd869267a2560583-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product Updates",
+      "first_seen": "2026-10-23T16:52:10.664340+00:00",
+      "pub_date": "2026-10-21T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/how-claude-and-the-sigma-mcp-plugin-changed-my-life",
       "title": "How claude and the sigma mcp plugin changed my life",
@@ -1536,15 +1546,6 @@
       "category": "AI & Agents",
       "first_seen": "2026-09-13T12:58:43.441293+00:00",
       "pub_date": "2026-09-10T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-money-2020-2026": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-money-2020-2026",
-      "title": "Money20/20 USA in Las Vegas | October 18-21, 2026",
-      "description": "Join us in Las Vegas, where the industry's leading Financial Services innovators come together to connect and create the future of money. Buy your pass today!",
-      "image": "//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png",
-      "category": "YOU HAVE HOURS LEFT TO SAVE",
-      "first_seen": "2026-09-13T12:58:47.082409+00:00",
-      "pub_date": "2026-09-09T21:38:06+00:00"
     }
   }
 }
