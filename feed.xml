@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:02:03 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How We Built a Game Storefront in Sigma: SigmaVerse</title>
+      <link>https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Learn how Sigma writeback and plugins power live multi-user apps and Stripe payments, with patterns for marketplaces, chat, and transaction tracking.</description>
+      <category>Engineering</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/bc1b9acf0886ba7f2bfc63a9d7612485a5fabd0c-4600x2320.avif?rect=80,0,4440,2320&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>How we rebuilt Sigma’s AI agent to be cheaper and faster for customers</title>
       <link>https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster</link>
@@ -423,15 +432,6 @@
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli</link>
       <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli</guid>
       <pubDate>Mon, 14 Sep 2026 14:53:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Sigma Plugin Is Live for ChatGPT Work and Codex</title>
-      <link>https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Build interactive dashboards and answer data questions with the Sigma plugin, now available in ChatGPT Work and Codex.</description>
-      <category>AI &amp; Agents</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b4ccfcc5113d746280971d7b21406adb8f71fe6a-3600x2025.png?rect=0,73,3600,1881&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

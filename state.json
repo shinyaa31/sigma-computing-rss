@@ -644,6 +644,7 @@
     "https://www.sigmacomputing.com/blog/sigmas-ai-ml-future",
     "https://www.sigmacomputing.com/blog/sigmas-glean-integration",
     "https://www.sigmacomputing.com/blog/sigmas-hyegin-cho-on-logistics-analytics-and-supply-chain-optimization",
+    "https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront",
     "https://www.sigmacomputing.com/blog/sisense-alternatives-embedded-analytics",
     "https://www.sigmacomputing.com/blog/slas-analytics-bi",
     "https://www.sigmacomputing.com/blog/snowflake-cortex-agents-sigma",
@@ -1097,6 +1098,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront": {
+      "url": "https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront",
+      "title": "How We Built a Game Storefront in Sigma: SigmaVerse",
+      "description": "Learn how Sigma writeback and plugins power live multi-user apps and Stripe payments, with patterns for marketplaces, chat, and transaction tracking.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/bc1b9acf0886ba7f2bfc63a9d7612485a5fabd0c-4600x2320.avif?rect=80,0,4440,2320&w=1200&h=627&fit=crop&auto=format",
+      "category": "Engineering",
+      "first_seen": "2026-10-27T22:02:03.133431+00:00",
+      "pub_date": "2026-10-27T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster": {
       "url": "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster",
       "title": "How we rebuilt Sigma’s AI agent to be cheaper and faster for customers",
@@ -1537,15 +1547,6 @@
       "category": null,
       "first_seen": "2026-09-14T19:47:37.674489+00:00",
       "pub_date": "2026-09-14T14:53:22+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt": {
-      "url": "https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt",
-      "title": "The Sigma Plugin Is Live for ChatGPT Work and Codex",
-      "description": "Build interactive dashboards and answer data questions with the Sigma plugin, now available in ChatGPT Work and Codex.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/b4ccfcc5113d746280971d7b21406adb8f71fe6a-3600x2025.png?rect=0,73,3600,1881&w=1200&h=627&fit=crop&auto=format",
-      "category": "AI & Agents",
-      "first_seen": "2026-09-13T12:58:43.441293+00:00",
-      "pub_date": "2026-09-10T00:00:00+00:00"
     }
   }
 }
