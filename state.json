@@ -624,6 +624,7 @@
     "https://www.sigmacomputing.com/blog/sigma-on-databricks-introducing-the-lakehouse-for-manufacturing",
     "https://www.sigmacomputing.com/blog/sigma-on-sigma-empower-your-stakeholders-with-timely-data-projections",
     "https://www.sigmacomputing.com/blog/sigma-partnerships",
+    "https://www.sigmacomputing.com/blog/sigma-pci-dss-level-1-compliant",
     "https://www.sigmacomputing.com/blog/sigma-plugin-chatgpt",
     "https://www.sigmacomputing.com/blog/sigma-plugin-claude-code",
     "https://www.sigmacomputing.com/blog/sigma-powers-a-community-driven-approach-to-analytics-and-bi",
@@ -1098,6 +1099,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-pci-dss-level-1-compliant": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-pci-dss-level-1-compliant",
+      "title": "Sigma is now PCI DSS Level 1 compliant",
+      "description": "See which payment card workflows financial services teams can run on Sigma, and how to request our PCI DSS Attestation of Compliance.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/2f472cbd80e325d8866615cbdcd8e416403abd16-2400x1256.avif?rect=0,1,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Company & Customers",
+      "first_seen": "2026-10-29T00:43:32.511734+00:00",
+      "pub_date": "2026-10-28T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront": {
       "url": "https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront",
       "title": "How We Built a Game Storefront in Sigma: SigmaVerse",
@@ -1538,15 +1548,6 @@
       "category": null,
       "first_seen": "2026-09-16T21:09:49.145647+00:00",
       "pub_date": "2026-09-16T20:58:41+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli",
-      "title": "Getting started with sigma mcp and sigma cli",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-09-14T19:47:37.674489+00:00",
-      "pub_date": "2026-09-14T14:53:22+00:00"
     }
   }
 }
