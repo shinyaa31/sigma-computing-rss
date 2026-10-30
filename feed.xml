@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:55:23 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New in Sigma October 2026: Build Mode &amp; Claude | Sigma</title>
+      <link>https://www.sigmacomputing.com/blog/new-in-sigma-october-2026</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/new-in-sigma-october-2026</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>See what shipped in Sigma in October: dashboards built from a description, Claude prototypes finished in Sigma, live Excel forecasts, and report bursting.</description>
+      <category>Product Updates</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/14e142380d280db83c297c1d84ab548107e748f5-3840x2016.png?rect=0,5,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Sigma is now PCI DSS Level 1 compliant</title>
       <link>https://www.sigmacomputing.com/blog/sigma-pci-dss-level-1-compliant</link>
@@ -429,12 +438,6 @@
       <description>See how Sigma engineers combined AI agent harnesses with Sigma workbooks to migrate 1,000+ tests to Playwright in a month, with 90% less flake.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/15f1937609bf4ede3e27a55f917fdbab40f8b2e6-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Sigma agents announcement see our agents in action</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action</guid>
-      <pubDate>Wed, 16 Sep 2026 20:58:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

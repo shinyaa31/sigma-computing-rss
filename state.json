@@ -500,6 +500,7 @@
     "https://www.sigmacomputing.com/blog/navigating-key-data-and-ai-trends-at-databricks-data-and-ai-summit-2024",
     "https://www.sigmacomputing.com/blog/new-in-sigma-august-2026",
     "https://www.sigmacomputing.com/blog/new-in-sigma-july-2026",
+    "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026",
     "https://www.sigmacomputing.com/blog/new-in-sigma-september-2026",
     "https://www.sigmacomputing.com/blog/new-on-sigma-spring-2026",
     "https://www.sigmacomputing.com/blog/no-code-data-apps",
@@ -1099,6 +1100,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026": {
+      "url": "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026",
+      "title": "New in Sigma October 2026: Build Mode & Claude | Sigma",
+      "description": "See what shipped in Sigma in October: dashboards built from a description, Claude prototypes finished in Sigma, live Excel forecasts, and report bursting.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/14e142380d280db83c297c1d84ab548107e748f5-3840x2016.png?rect=0,5,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product Updates",
+      "first_seen": "2026-10-30T17:55:22.947179+00:00",
+      "pub_date": "2026-10-30T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-pci-dss-level-1-compliant": {
       "url": "https://www.sigmacomputing.com/blog/sigma-pci-dss-level-1-compliant",
       "title": "Sigma is now PCI DSS Level 1 compliant",
@@ -1539,15 +1549,6 @@
       "category": "AI & Agents",
       "first_seen": "2026-09-18T20:45:02.021593+00:00",
       "pub_date": "2026-09-17T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/sigma-agents-announcement-see-our-agents-in-action",
-      "title": "Sigma agents announcement see our agents in action",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-09-16T21:09:49.145647+00:00",
-      "pub_date": "2026-09-16T20:58:41+00:00"
     }
   }
 }
