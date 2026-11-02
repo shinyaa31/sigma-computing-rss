@@ -51,6 +51,7 @@
     "https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops",
     "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software",
     "https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics",
+    "https://www.sigmacomputing.com/blog/ai-agents-supply-chain-demand-planning",
     "https://www.sigmacomputing.com/blog/ai-app-partner-portal",
     "https://www.sigmacomputing.com/blog/ai-apps-competitive-edge",
     "https://www.sigmacomputing.com/blog/ai-bi-crisis",
@@ -981,6 +982,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/fpa-at-scale-automate-reporting-analytics-with-sigma-databricks",
     "https://www.sigmacomputing.com/resources/webinars-and-events/from-data-to-dollars-tips-from-a-ceo-on-how-to-monetize-your-data",
     "https://www.sigmacomputing.com/resources/webinars-and-events/future-of-cloud-computing-where-to-put-your-money-in-2023-2024",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli",
     "https://www.sigmacomputing.com/resources/webinars-and-events/getting-started-with-sigma-mcp-and-sigma-cli",
     "https://www.sigmacomputing.com/resources/webinars-and-events/greenwich-hr-hits-a-new-multi-million-revenue-stream-using-embedded-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/high-growth-a-i-leaders-spill-their-secrets-to-success",
@@ -1100,6 +1102,24 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli",
+      "title": "Get connected. Get configured. Start building.",
+      "description": "Get connected. Get configured. Start building.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/eb7d66fbc75a1108520a360de9320ebc6c54b7c0-2400x1256.png?rect=0,1,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Webinars & Events",
+      "first_seen": "2026-11-02T21:38:08.243721+00:00",
+      "pub_date": "2026-11-02T19:39:12+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-agents-supply-chain-demand-planning": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agents-supply-chain-demand-planning",
+      "title": "AI agents for supply chain and demand planning",
+      "description": "Learn how AI agents for supply chain and demand planning detect deviations, adjust forecasts, and execute reorders with guardrails, audit trails, and live warehouse data.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/50355d4b3e6a97f05529223c7fbfbdf5fd04e47a-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-02T21:38:09.613754+00:00",
+      "pub_date": "2026-11-02T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026": {
       "url": "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026",
       "title": "New in Sigma October 2026: Build Mode & Claude | Sigma",
@@ -1531,24 +1551,6 @@
       "category": "Fundamentals",
       "first_seen": "2026-09-24T16:57:32.115764+00:00",
       "pub_date": "2026-09-22T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting": {
-      "url": "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting",
-      "title": "AI Agents for Demand Forecasting",
-      "description": "AI agents for demand forecasting replace static, monthly plans with a live loop on warehouse data. Detect shifts and act before the next cycle begins.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/6e74f12261ba04b27af4ec9cb7797fd3bf9f9883-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-24T16:57:35.990211+00:00",
-      "pub_date": "2026-09-22T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops": {
-      "url": "https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops",
-      "title": "Migrating 1,000+ Tests to Playwright with Agentic Loops",
-      "description": "See how Sigma engineers combined AI agent harnesses with Sigma workbooks to migrate 1,000+ tests to Playwright in a month, with 90% less flake.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/15f1937609bf4ede3e27a55f917fdbab40f8b2e6-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "AI & Agents",
-      "first_seen": "2026-09-18T20:45:02.021593+00:00",
-      "pub_date": "2026-09-17T00:00:00+00:00"
     }
   }
 }

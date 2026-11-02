@@ -5,8 +5,26 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:38:10 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Get connected. Get configured. Start building.</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli</guid>
+      <pubDate>Mon, 02 Nov 2026 19:39:12 +0000</pubDate>
+      <description>Get connected. Get configured. Start building.</description>
+      <category>Webinars &amp; Events</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/eb7d66fbc75a1108520a360de9320ebc6c54b7c0-2400x1256.png?rect=0,1,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI agents for supply chain and demand planning</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-supply-chain-demand-planning</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-supply-chain-demand-planning</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn how AI agents for supply chain and demand planning detect deviations, adjust forecasts, and execute reorders with guardrails, audit trails, and live warehouse data.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/50355d4b3e6a97f05529223c7fbfbdf5fd04e47a-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>New in Sigma October 2026: Build Mode &amp; Claude | Sigma</title>
       <link>https://www.sigmacomputing.com/blog/new-in-sigma-october-2026</link>
@@ -420,24 +438,6 @@
       <description>Compare cloud BI platforms on architecture, governance, and adoption. Learn what separates warehouse-native solutions from extract-based tools before you buy.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/81bfc6125181a1cc2ecb65aab77714458393468c-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>AI Agents for Demand Forecasting</title>
-      <link>https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI agents for demand forecasting replace static, monthly plans with a live loop on warehouse data. Detect shifts and act before the next cycle begins.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6e74f12261ba04b27af4ec9cb7797fd3bf9f9883-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Migrating 1,000+ Tests to Playwright with Agentic Loops</title>
-      <link>https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/playwright-migration-agentic-loops</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>See how Sigma engineers combined AI agent harnesses with Sigma workbooks to migrate 1,000+ tests to Playwright in a month, with 90% less flake.</description>
-      <category>AI &amp; Agents</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/15f1937609bf4ede3e27a55f917fdbab40f8b2e6-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
