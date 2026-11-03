@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:56:29 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sigma Tables are now in public beta</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-tables-public-beta</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-tables-public-beta</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Build apps on Sigma Tables, editable warehouse tables that workbooks and outside systems share, now with input columns and audit logs.</description>
+      <category>Product Updates</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/19ef1ab299a6a4af273c04b7f18036db08adec3c-2676x1500.png?rect=0,51,2676,1398&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Get connected. Get configured. Start building.</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli</link>
@@ -429,15 +438,6 @@
       <description>AI agents for headcount planning keep plans current with live HR and finance data, reforecasting, flagging budget risk, and routing approvals.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/f8fc14ebeb0c2f7e55cc317132391f493ef54831-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Cloud Business Intelligence Solutions: Buyer's Guide</title>
-      <link>https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Compare cloud BI platforms on architecture, governance, and adoption. Learn what separates warehouse-native solutions from extract-based tools before you buy.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/81bfc6125181a1cc2ecb65aab77714458393468c-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

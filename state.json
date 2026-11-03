@@ -637,6 +637,7 @@
     "https://www.sigmacomputing.com/blog/sigma-snowflake-open-semantic-interchange",
     "https://www.sigmacomputing.com/blog/sigma-snowflake-partner-of-the-year-2026",
     "https://www.sigmacomputing.com/blog/sigma-tables-databricks-lakebase-real-time-data-apps",
+    "https://www.sigmacomputing.com/blog/sigma-tables-public-beta",
     "https://www.sigmacomputing.com/blog/sigma-tenants-generally-available",
     "https://www.sigmacomputing.com/blog/sigma-tenants-is-the-future-of-enterprise-analytics",
     "https://www.sigmacomputing.com/blog/sigma-vs-power-bi-business-intelligence-comparison",
@@ -1102,6 +1103,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-tables-public-beta": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-tables-public-beta",
+      "title": "Sigma Tables are now in public beta",
+      "description": "Build apps on Sigma Tables, editable warehouse tables that workbooks and outside systems share, now with input columns and audit logs.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/19ef1ab299a6a4af273c04b7f18036db08adec3c-2676x1500.png?rect=0,51,2676,1398&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product Updates",
+      "first_seen": "2026-11-03T16:56:29.508709+00:00",
+      "pub_date": "2026-11-03T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/get-up-and-running-with-sigma-mcp-and-sigma-cli",
       "title": "Get connected. Get configured. Start building.",
@@ -1541,15 +1551,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/f8fc14ebeb0c2f7e55cc317132391f493ef54831-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-09-24T16:57:30.831861+00:00",
-      "pub_date": "2026-09-22T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions": {
-      "url": "https://www.sigmacomputing.com/blog/cloud-business-intelligence-solutions",
-      "title": "Cloud Business Intelligence Solutions: Buyer's Guide",
-      "description": "Compare cloud BI platforms on architecture, governance, and adoption. Learn what separates warehouse-native solutions from extract-based tools before you buy.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/81bfc6125181a1cc2ecb65aab77714458393468c-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-24T16:57:32.115764+00:00",
       "pub_date": "2026-09-22T00:00:00+00:00"
     }
   }
