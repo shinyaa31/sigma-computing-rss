@@ -5,7 +5,7 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:07:19 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Sigma Tables are now in public beta</title>
@@ -33,6 +33,15 @@
       <description>Learn how AI agents for supply chain and demand planning detect deviations, adjust forecasts, and execute reorders with guardrails, audit trails, and live warehouse data.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/50355d4b3e6a97f05529223c7fbfbdf5fd04e47a-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Serve high-concurrency Sigma dashboards with Snowflake interactive analytics</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-snowflake-interactive-analytics</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-snowflake-interactive-analytics</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>See how routing one Sigma workbook to a Snowflake interactive warehouse gives thousands of users low-latency filters and drilldowns without extracts.</description>
+      <category>Company &amp; Customers</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/18b5f47468188682f809925a4d7e64070ef7efab-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>New in Sigma October 2026: Build Mode &amp; Claude | Sigma</title>
@@ -429,15 +438,6 @@
       <description>Spreadsheet governance works for some files, not all. Learn how to build real controls, and when persistent or regulated use means it's time to look past the spreadsheet itself.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/119626b1fd145e9ba2f4fb198a544349eb4ad311-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>AI Agents for Headcount Planning Software in 2026</title>
-      <link>https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI agents for headcount planning keep plans current with live HR and finance data, reforecasting, flagging budget risk, and routing approvals.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/f8fc14ebeb0c2f7e55cc317132391f493ef54831-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

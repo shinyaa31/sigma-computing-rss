@@ -634,6 +634,7 @@
     "https://www.sigmacomputing.com/blog/sigma-recognized-as-a-representative-vendor-in-the-2023-gartner-r-hype-cycle-tm-for-analytics-and-business-intelligence",
     "https://www.sigmacomputing.com/blog/sigma-redshift-tables",
     "https://www.sigmacomputing.com/blog/sigma-skills-snowflake-cortex-code",
+    "https://www.sigmacomputing.com/blog/sigma-snowflake-interactive-analytics",
     "https://www.sigmacomputing.com/blog/sigma-snowflake-open-semantic-interchange",
     "https://www.sigmacomputing.com/blog/sigma-snowflake-partner-of-the-year-2026",
     "https://www.sigmacomputing.com/blog/sigma-tables-databricks-lakebase-real-time-data-apps",
@@ -1130,6 +1131,15 @@
       "first_seen": "2026-11-02T21:38:09.613754+00:00",
       "pub_date": "2026-11-02T00:00:00+00:00"
     },
+    "https://www.sigmacomputing.com/blog/sigma-snowflake-interactive-analytics": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-snowflake-interactive-analytics",
+      "title": "Serve high-concurrency Sigma dashboards with Snowflake interactive analytics",
+      "description": "See how routing one Sigma workbook to a Snowflake interactive warehouse gives thousands of users low-latency filters and drilldowns without extracts.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/18b5f47468188682f809925a4d7e64070ef7efab-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Company & Customers",
+      "first_seen": "2026-11-03T23:07:18.504819+00:00",
+      "pub_date": "2026-11-02T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026": {
       "url": "https://www.sigmacomputing.com/blog/new-in-sigma-october-2026",
       "title": "New in Sigma October 2026: Build Mode & Claude | Sigma",
@@ -1542,15 +1552,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/119626b1fd145e9ba2f4fb198a544349eb4ad311-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-09-24T16:57:29.586787+00:00",
-      "pub_date": "2026-09-22T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software": {
-      "url": "https://www.sigmacomputing.com/blog/ai-agents-headcount-planning-software",
-      "title": "AI Agents for Headcount Planning Software in 2026",
-      "description": "AI agents for headcount planning keep plans current with live HR and finance data, reforecasting, flagging budget risk, and routing approvals.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/f8fc14ebeb0c2f7e55cc317132391f493ef54831-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-24T16:57:30.831861+00:00",
       "pub_date": "2026-09-22T00:00:00+00:00"
     }
   }
