@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:12:19 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Headless Sigma agents: bring governed answers into Claude and your own apps</title>
+      <link>https://www.sigmacomputing.com/blog/headless-sigma-agents-claude</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/headless-sigma-agents-claude</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn how to connect Claude to Sigma agents with the Sigma MCP server and the agents API, so governed answers reach every app your team uses.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/4edbce9d9e94dfacbc5beb262ec123ecc41607ca-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Sigma Tables are now in public beta</title>
       <link>https://www.sigmacomputing.com/blog/sigma-tables-public-beta</link>
@@ -429,15 +438,6 @@
       <description>See how Sigma Assistant clarifies ambiguous questions, shows its reasoning and SQL, and keeps a searchable history of every conversation.</description>
       <category>Product</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>How to Approach Spreadsheet Governance</title>
-      <link>https://www.sigmacomputing.com/blog/spreadsheet-governance</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/spreadsheet-governance</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Spreadsheet governance works for some files, not all. Learn how to build real controls, and when persistent or regulated use means it's time to look past the spreadsheet itself.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/119626b1fd145e9ba2f4fb198a544349eb4ad311-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

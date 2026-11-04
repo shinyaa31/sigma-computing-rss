@@ -382,6 +382,7 @@
     "https://www.sigmacomputing.com/blog/guide-to-marketing-qualified-leads",
     "https://www.sigmacomputing.com/blog/hack-your-company-before-someone-else-does",
     "https://www.sigmacomputing.com/blog/harnessing-unstructured-data-with-sigmas-text-processing-tools",
+    "https://www.sigmacomputing.com/blog/headless-sigma-agents-claude",
     "https://www.sigmacomputing.com/blog/healthcare-provider-anomaly-detection",
     "https://www.sigmacomputing.com/blog/heatmaps",
     "https://www.sigmacomputing.com/blog/heres-what-you-missed-at-the-databricks-data-ai-summit",
@@ -1104,6 +1105,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/headless-sigma-agents-claude": {
+      "url": "https://www.sigmacomputing.com/blog/headless-sigma-agents-claude",
+      "title": "Headless Sigma agents: bring governed answers into Claude and your own apps",
+      "description": "Learn how to connect Claude to Sigma agents with the Sigma MCP server and the agents API, so governed answers reach every app your team uses.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/4edbce9d9e94dfacbc5beb262ec123ecc41607ca-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-11-04T21:12:18.795580+00:00",
+      "pub_date": "2026-11-04T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-tables-public-beta": {
       "url": "https://www.sigmacomputing.com/blog/sigma-tables-public-beta",
       "title": "Sigma Tables are now in public beta",
@@ -1543,15 +1553,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&w=1200&h=627&fit=crop&auto=format",
       "category": "Product",
       "first_seen": "2026-09-22T11:21:43.337351+00:00",
-      "pub_date": "2026-09-22T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/spreadsheet-governance": {
-      "url": "https://www.sigmacomputing.com/blog/spreadsheet-governance",
-      "title": "How to Approach Spreadsheet Governance",
-      "description": "Spreadsheet governance works for some files, not all. Learn how to build real controls, and when persistent or regulated use means it's time to look past the spreadsheet itself.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/119626b1fd145e9ba2f4fb198a544349eb4ad311-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-24T16:57:29.586787+00:00",
       "pub_date": "2026-09-22T00:00:00+00:00"
     }
   }
