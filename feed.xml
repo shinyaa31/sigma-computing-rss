@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:12:53 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The MotherDuck connection for Sigma is now available in public beta</title>
+      <link>https://www.sigmacomputing.com/blog/motherduck-connection-public-beta</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/motherduck-connection-public-beta</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Connect Sigma to MotherDuck in minutes, then explore live DuckDB data with spreadsheet-style analysis, governed data models, and AI.</description>
+      <category>Analytics &amp; Reporting</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/01a54853cc7536727860022b07cd15d31b70851a-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Headless Sigma agents: bring governed answers into Claude and your own apps</title>
       <link>https://www.sigmacomputing.com/blog/headless-sigma-agents-claude</link>
@@ -429,15 +438,6 @@
       <description>Learn what operational reporting is, key report types, and how to build automated reports on live warehouse data.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/437c91e68b1f85b2e9dfb0b5e4afcd7b397fe4c4-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>The upgraded Sigma Assistant: your AI companion for open-ended data exploration</title>
-      <link>https://www.sigmacomputing.com/blog/sigma-assistant-upgrade</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-upgrade</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>See how Sigma Assistant clarifies ambiguous questions, shows its reasoning and SQL, and keeps a searchable history of every conversation.</description>
-      <category>Product</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

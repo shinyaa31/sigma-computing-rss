@@ -498,6 +498,7 @@
     "https://www.sigmacomputing.com/blog/modern-data-stack",
     "https://www.sigmacomputing.com/blog/modern-data-stack-guide",
     "https://www.sigmacomputing.com/blog/modern-security-risk-program-snowflake-sigma",
+    "https://www.sigmacomputing.com/blog/motherduck-connection-public-beta",
     "https://www.sigmacomputing.com/blog/natural-language-processing-nlp",
     "https://www.sigmacomputing.com/blog/navigating-key-data-and-ai-trends-at-databricks-data-and-ai-summit-2024",
     "https://www.sigmacomputing.com/blog/new-in-sigma-august-2026",
@@ -1105,6 +1106,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/motherduck-connection-public-beta": {
+      "url": "https://www.sigmacomputing.com/blog/motherduck-connection-public-beta",
+      "title": "The MotherDuck connection for Sigma is now available in public beta",
+      "description": "Connect Sigma to MotherDuck in minutes, then explore live DuckDB data with spreadsheet-style analysis, governed data models, and AI.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/01a54853cc7536727860022b07cd15d31b70851a-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Analytics & Reporting",
+      "first_seen": "2026-11-05T06:12:53.216582+00:00",
+      "pub_date": "2026-11-05T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/headless-sigma-agents-claude": {
       "url": "https://www.sigmacomputing.com/blog/headless-sigma-agents-claude",
       "title": "Headless Sigma agents: bring governed answers into Claude and your own apps",
@@ -1545,15 +1555,6 @@
       "category": "Fundamentals",
       "first_seen": "2026-09-24T16:57:37.237589+00:00",
       "pub_date": "2026-09-24T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade": {
-      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
-      "title": "The upgraded Sigma Assistant: your AI companion for open-ended data exploration",
-      "description": "See how Sigma Assistant clarifies ambiguous questions, shows its reasoning and SQL, and keeps a searchable history of every conversation.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/fe4221c5990e69c39f928cbd3121b63c56186e07-3432x1922.png?rect=0,65,3432,1793&w=1200&h=627&fit=crop&auto=format",
-      "category": "Product",
-      "first_seen": "2026-09-22T11:21:43.337351+00:00",
-      "pub_date": "2026-09-22T00:00:00+00:00"
     }
   }
 }
