@@ -60,6 +60,7 @@
     "https://www.sigmacomputing.com/blog/ai-cost-monitoring-templates",
     "https://www.sigmacomputing.com/blog/ai-data-analytics-governance",
     "https://www.sigmacomputing.com/blog/ai-for-business-analysts",
+    "https://www.sigmacomputing.com/blog/ai-for-business-intelligence",
     "https://www.sigmacomputing.com/blog/ai-for-data-analysis",
     "https://www.sigmacomputing.com/blog/ai-for-data-blending",
     "https://www.sigmacomputing.com/blog/ai-in-excel-vs-bi",
@@ -479,6 +480,7 @@
     "https://www.sigmacomputing.com/blog/making-sense-of-the-different-types-of-data-structures",
     "https://www.sigmacomputing.com/blog/making-sigma-click-introducing-our-refreshed-interface",
     "https://www.sigmacomputing.com/blog/manage-snowflake-semantic-views",
+    "https://www.sigmacomputing.com/blog/management-reporting-software",
     "https://www.sigmacomputing.com/blog/manufacturing-finance-margin-variance-app",
     "https://www.sigmacomputing.com/blog/mature-analytics-workflow",
     "https://www.sigmacomputing.com/blog/meet-jake-sigma-cortex-agent",
@@ -1106,6 +1108,24 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/ai-for-business-intelligence": {
+      "url": "https://www.sigmacomputing.com/blog/ai-for-business-intelligence",
+      "title": "AI for business intelligence: Benefits & best practices",
+      "description": "AI for business intelligence helps teams query, explain, forecast, and act on live governed data. See benefits, rollout steps, and Sigma's role.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/46e583a9dba7e6a9a61bb765a76d5e01890396e7-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-06T22:56:40.550089+00:00",
+      "pub_date": "2026-11-06T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/management-reporting-software": {
+      "url": "https://www.sigmacomputing.com/blog/management-reporting-software",
+      "title": "Management reporting software: Live data beats extracts",
+      "description": "Learn how management reporting software delivers trusted board decks, KPI summaries, and variance workbooks by running on live warehouse data instead of stale extracts.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/f0ec88e306ed0d6e5d858037c963de963652ea2c-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-06T22:56:41.720718+00:00",
+      "pub_date": "2026-11-06T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/motherduck-connection-public-beta": {
       "url": "https://www.sigmacomputing.com/blog/motherduck-connection-public-beta",
       "title": "The MotherDuck connection for Sigma is now available in public beta",
@@ -1536,24 +1556,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/1b353b2cedd91af76222e890d512324b9a5ca142-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-09-24T16:57:33.446026+00:00",
-      "pub_date": "2026-09-24T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/what-is-data-reporting": {
-      "url": "https://www.sigmacomputing.com/blog/what-is-data-reporting",
-      "title": "What Is Data Reporting? Definition, Types & Best Practices",
-      "description": "Learn what data reporting is, the core types enterprises run, and the architectural choices that keep reporting accurate as more teams depend on it.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/b0d4a02b234eec93012934bcd10e5e4b75fe9b6a-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-24T16:57:34.732673+00:00",
-      "pub_date": "2026-09-24T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/what-is-operational-reporting": {
-      "url": "https://www.sigmacomputing.com/blog/what-is-operational-reporting",
-      "title": "What Is Operational Reporting? Report Types and How to Build Them",
-      "description": "Learn what operational reporting is, key report types, and how to build automated reports on live warehouse data.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/437c91e68b1f85b2e9dfb0b5e4afcd7b397fe4c4-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-24T16:57:37.237589+00:00",
       "pub_date": "2026-09-24T00:00:00+00:00"
     }
   }

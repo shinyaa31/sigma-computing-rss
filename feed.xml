@@ -5,8 +5,26 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:56:41 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI for business intelligence: Benefits &amp; best practices</title>
+      <link>https://www.sigmacomputing.com/blog/ai-for-business-intelligence</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-for-business-intelligence</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI for business intelligence helps teams query, explain, forecast, and act on live governed data. See benefits, rollout steps, and Sigma's role.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/46e583a9dba7e6a9a61bb765a76d5e01890396e7-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Management reporting software: Live data beats extracts</title>
+      <link>https://www.sigmacomputing.com/blog/management-reporting-software</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/management-reporting-software</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn how management reporting software delivers trusted board decks, KPI summaries, and variance workbooks by running on live warehouse data instead of stale extracts.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/f0ec88e306ed0d6e5d858037c963de963652ea2c-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>The MotherDuck connection for Sigma is now available in public beta</title>
       <link>https://www.sigmacomputing.com/blog/motherduck-connection-public-beta</link>
@@ -420,24 +438,6 @@
       <description>A data app connects insights from live warehouse data with action in one place. Learn how data apps work and drive decisions.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/1b353b2cedd91af76222e890d512324b9a5ca142-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>What Is Data Reporting? Definition, Types &amp; Best Practices</title>
-      <link>https://www.sigmacomputing.com/blog/what-is-data-reporting</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-data-reporting</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Learn what data reporting is, the core types enterprises run, and the architectural choices that keep reporting accurate as more teams depend on it.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b0d4a02b234eec93012934bcd10e5e4b75fe9b6a-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>What Is Operational Reporting? Report Types and How to Build Them</title>
-      <link>https://www.sigmacomputing.com/blog/what-is-operational-reporting</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-operational-reporting</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Learn what operational reporting is, key report types, and how to build automated reports on live warehouse data.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/437c91e68b1f85b2e9dfb0b5e4afcd7b397fe4c4-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
