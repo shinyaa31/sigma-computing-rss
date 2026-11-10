@@ -5,8 +5,35 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:24:40 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Build Anything with AI</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai</guid>
+      <pubDate>Mon, 09 Nov 2026 19:56:42 +0000</pubDate>
+      <description>See how anyone can build apps, reports, and agents with any AI, while IT governs access, review, and cost.</description>
+      <category>Webinars &amp; Events</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/49ba8508ecc61550be5dd8f8224fad11d7ca8bfa-2400x1256.png?rect=0,1,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI agents for people analytics software</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-for-people-analytics-software</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-for-people-analytics-software</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI agents built into people analytics software close the distance between flight-risk scores and action on governed warehouse data, with auditable writeback.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e7af1221612c761a8def7d67c4088f79fab14da3-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Demand forecasting: methods, models, and modern approaches</title>
+      <link>https://www.sigmacomputing.com/blog/demand-forecasting</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/demand-forecasting</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Compare demand forecasting methods, from statistical models to machine learning, and see how governed warehouse data keeps forecasts accurate.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/85ab2996f2682127e270931c62646d766b0a3541-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>AI for business intelligence: Benefits &amp; best practices</title>
       <link>https://www.sigmacomputing.com/blog/ai-for-business-intelligence</link>
@@ -411,33 +438,6 @@
       <description>AI agents for marketing analytics read live data, reason across channels, and act within governed rules. See key use cases and how to implement.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e8173696789765f2de837f76cbc0ee65e5e95cf0-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>AI Agents for Sales &amp; RevOps: Use Cases &amp; Implementation</title>
-      <link>https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-for-sales-revops</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Learn how AI agents for sales and RevOps work, key use cases like pipeline risk and approval routing, and how to implement them with governed warehouse data.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/277dc8948fa81d6df1f6bfa18831b5059f3f2d66-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>What is Jev? How to use it in Sigma through MotherDuck</title>
-      <link>https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/what-is-jev-sigma-motherduck</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>See how Jev, TypeSafe AI's text classification model, runs in Sigma on MotherDuck, what it costs per row, and where AI columns fit.</description>
-      <category>AI &amp; Agents</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/3ea61498b7789d43f7ba0019b410a1aa301afb42-3600x1890.png?rect=0,5,3600,1881&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>What Is a Data App? Why They Exist &amp; Use Cases</title>
-      <link>https://www.sigmacomputing.com/blog/data-app</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/data-app</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>A data app connects insights from live warehouse data with action in one place. Learn how data apps work and drive decisions.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/1b353b2cedd91af76222e890d512324b9a5ca142-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
