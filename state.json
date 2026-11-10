@@ -796,6 +796,7 @@
     "https://www.sigmacomputing.com/blog/winter-2024-product-launch",
     "https://www.sigmacomputing.com/blog/workbook-to-report-converter",
     "https://www.sigmacomputing.com/blog/workbooks-as-code-preview",
+    "https://www.sigmacomputing.com/blog/workbooks-reports-as-code-ga",
     "https://www.sigmacomputing.com/blog/workflow-2026-insights-from-sigmas-first-user-conference",
     "https://www.sigmacomputing.com/blog/workflow-on-the-road-london-takeaways",
     "https://www.sigmacomputing.com/blog/workflow-recap-ai-assisted-variance-commentary",
@@ -1111,6 +1112,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/workbooks-reports-as-code-ga": {
+      "url": "https://www.sigmacomputing.com/blog/workbooks-reports-as-code-ga",
+      "title": "Workbooks and Reports as Code are now GA: Build Sigma assets from any agent",
+      "description": "Learn how teams use AI agents to migrate and generate dashboards, build AI apps, burst pixel-perfect reports, and fix schema breaks from code, all governed in Sigma.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/139203c6384ced7a0f9e12b78a86bc1b1b3225b7-3600x1890.avif?rect=0,5,3600,1881&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-11-10T10:56:01.005721+00:00",
+      "pub_date": "2026-11-10T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai",
       "title": "Build Anything with AI",
@@ -1550,15 +1560,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/478e0309f852e5315f6318dea00a98aa80b086f9-3840x2160.png?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
       "category": "AI & Agents",
       "first_seen": "2026-09-29T05:22:22.769033+00:00",
-      "pub_date": "2026-09-29T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics": {
-      "url": "https://www.sigmacomputing.com/blog/ai-agents-marketing-analytics",
-      "title": "AI Agents for Marketing Analytics: Uses & How to Implement",
-      "description": "AI agents for marketing analytics read live data, reason across channels, and act within governed rules. See key use cases and how to implement.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/e8173696789765f2de837f76cbc0ee65e5e95cf0-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-09-29T19:54:42.391300+00:00",
       "pub_date": "2026-09-29T00:00:00+00:00"
     }
   }
