@@ -582,6 +582,7 @@
     "https://www.sigmacomputing.com/blog/scrum-analytics-teams",
     "https://www.sigmacomputing.com/blog/secret-manager-integration",
     "https://www.sigmacomputing.com/blog/securing-and-streamlining-sigma-access-to-databricks-with-oauth",
+    "https://www.sigmacomputing.com/blog/self-service-analytics",
     "https://www.sigmacomputing.com/blog/self-service-analytics-revolution",
     "https://www.sigmacomputing.com/blog/self-service-business-intelligence",
     "https://www.sigmacomputing.com/blog/self-service-data-apps",
@@ -721,6 +722,7 @@
     "https://www.sigmacomputing.com/blog/top-obiee-alternatives",
     "https://www.sigmacomputing.com/blog/top-qlik-competitors-alternatives",
     "https://www.sigmacomputing.com/blog/topic-modeling",
+    "https://www.sigmacomputing.com/blog/track-openrouter-spend",
     "https://www.sigmacomputing.com/blog/transform-your-marketing-strategies-with-ai-driven-business-intelligence",
     "https://www.sigmacomputing.com/blog/translating-spreadsheets-into-sql",
     "https://www.sigmacomputing.com/blog/trend-analysis-functions",
@@ -1123,6 +1125,15 @@
       "first_seen": "2026-11-10T10:56:01.005721+00:00",
       "pub_date": "2026-11-10T00:00:00+00:00"
     },
+    "https://www.sigmacomputing.com/blog/track-openrouter-spend": {
+      "url": "https://www.sigmacomputing.com/blog/track-openrouter-spend",
+      "title": "How we keep track of OpenRouter costs in Slack with a Sigma report built in dbt",
+      "description": "Build a daily OpenRouter spend report in Sigma, defined in a dbt model, reviewed in a pull request, and sent to Slack every morning.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/2632f3c6ba0cf687d2ad38bd30c19c0fbd9cd154-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-11-11T01:10:01.935619+00:00",
+      "pub_date": "2026-11-10T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai",
       "title": "Build Anything with AI",
@@ -1166,6 +1177,15 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/b2fe7cb4dc2ba83a312250a7b00ca6fe94c1f872-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-11-10T19:34:03.717688+00:00",
+      "pub_date": "2026-11-09T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/self-service-analytics": {
+      "url": "https://www.sigmacomputing.com/blog/self-service-analytics",
+      "title": "What is self-service analytics? How it works",
+      "description": "Self-service analytics lets business teams query live warehouse data without waiting on IT. Learn how it works, key benefits, and what makes it succeed.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/94d13c2045868fd4a51db403be8ab85967c0c78e-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-11T01:10:00.547038+00:00",
       "pub_date": "2026-11-09T00:00:00+00:00"
     },
     "https://www.sigmacomputing.com/blog/ai-for-business-intelligence": {
@@ -1545,24 +1565,6 @@
       "category": "Product",
       "first_seen": "2026-10-05T21:56:06.444908+00:00",
       "pub_date": "2026-10-02T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis": {
-      "url": "https://www.sigmacomputing.com/blog/agentic-automation-data-analysis",
-      "title": "Agentic Automation in Data Analysis: Definition, Benefits, and Best Practices",
-      "description": "Learn what agentic automation means for analytics teams, why it matters, and the governance, controls, and audit trails it needs to run safely.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/275982e976fee900ea19c1518917dcf80261637a-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-02T00:37:51.988214+00:00",
-      "pub_date": "2026-10-01T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster": {
-      "url": "https://www.sigmacomputing.com/blog/semantic-layer-dbt-dagster",
-      "title": "How Sigma's Data Platform Team Manages the Semantic Layer with Dagster and dbt",
-      "description": "Learn how Sigma's data team defines its semantic layer as code in dbt and deploys it with Dagster, so every merge to main ships updated Sigma data models.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/0a4daedd2cc3a165240c40c28c893117d1e38d06-2494x1309.png?rect=0,4,2494,1303&w=1200&h=627&fit=crop&auto=format",
-      "category": "Engineering",
-      "first_seen": "2026-09-30T17:54:21.542861+00:00",
-      "pub_date": "2026-09-30T00:00:00+00:00"
     }
   }
 }
