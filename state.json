@@ -58,6 +58,7 @@
     "https://www.sigmacomputing.com/blog/ai-apps-competitive-edge",
     "https://www.sigmacomputing.com/blog/ai-bi-crisis",
     "https://www.sigmacomputing.com/blog/ai-bi-data-infrastructure",
+    "https://www.sigmacomputing.com/blog/ai-budgets-limit-spend",
     "https://www.sigmacomputing.com/blog/ai-coaching-with-sigma",
     "https://www.sigmacomputing.com/blog/ai-cost-monitoring-templates",
     "https://www.sigmacomputing.com/blog/ai-data-analytics-governance",
@@ -1116,6 +1117,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/ai-budgets-limit-spend": {
+      "url": "https://www.sigmacomputing.com/blog/ai-budgets-limit-spend",
+      "title": "Introducing AI Budgets: Set limits on AI spend in Sigma",
+      "description": "Learn how Sigma admins can set a monthly AI spend cap for every user, with overrides by team, individual or account type, so AI costs stay inside your plan.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/95de04d4f3279ee98852677accc527397e9b940b-2400x1260.avif?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product Updates",
+      "first_seen": "2026-11-12T02:10:34.159652+00:00",
+      "pub_date": "2026-11-11T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/workbooks-reports-as-code-ga": {
       "url": "https://www.sigmacomputing.com/blog/workbooks-reports-as-code-ga",
       "title": "Workbooks and Reports as Code are now GA: Build Sigma assets from any agent",
@@ -1555,15 +1565,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "AI & Agents",
       "first_seen": "2026-10-02T22:03:15.978131+00:00",
-      "pub_date": "2026-10-02T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/new-in-sigma-september-2026": {
-      "url": "https://www.sigmacomputing.com/blog/new-in-sigma-september-2026",
-      "title": "New in Sigma September 2026: Agents & ChatGPT | Sigma",
-      "description": "See what shipped in Sigma in September: agents that act from Claude or ChatGPT, dashboards built from a prompt, and reports that become decks in one click.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/31c37998b532e925f70383a1828097cdca571e0b-3840x2016.png?rect=0,5,3840,2006&w=1200&h=627&fit=crop&auto=format",
-      "category": "Product",
-      "first_seen": "2026-10-05T21:56:06.444908+00:00",
       "pub_date": "2026-10-02T00:00:00+00:00"
     }
   }
