@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:52:41 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing the Sigma Context Engine: Teaching AI how your business works</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-context-engine</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-context-engine</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Trusted AI starts with the right context. See how the Sigma Context Engine uses context from your team’s work in Sigma to make AI responses more accurate and reliable.</description>
+      <category>Product Updates</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c426ebbb0160cb2c464b8bf1e8d5961ed3b1d87b-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Introducing AI Budgets: Set limits on AI spend in Sigma</title>
       <link>https://www.sigmacomputing.com/blog/ai-budgets-limit-spend</link>
@@ -432,15 +441,6 @@
       <description>Start building governed dashboards and apps in Sigma by describing them. Sigma Assistant builds editable workbook elements on live warehouse data.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c89034207481ff5df53cae29bdbfa6869dd065ab-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Build a Sigma App with the Sigma MCP and CLI</title>
-      <link>https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Connect any AI assistant to Sigma MCP, build a working app from one plain-language request, and automate admin tasks with the CLI. Follow 6 steps.</description>
-      <category>AI &amp; Agents</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

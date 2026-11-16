@@ -606,6 +606,7 @@
     "https://www.sigmacomputing.com/blog/sigma-awarded-snowflake-bi-partner-of-the-year-2023",
     "https://www.sigmacomputing.com/blog/sigma-careers-helpfulness-velocity",
     "https://www.sigmacomputing.com/blog/sigma-computing-announces-iso-27001-certification",
+    "https://www.sigmacomputing.com/blog/sigma-context-engine",
     "https://www.sigmacomputing.com/blog/sigma-data-apps-launch-partners",
     "https://www.sigmacomputing.com/blog/sigma-data-apps-vs-power-apps",
     "https://www.sigmacomputing.com/blog/sigma-data-self-service-analytics",
@@ -1119,6 +1120,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-context-engine": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-context-engine",
+      "title": "Introducing the Sigma Context Engine: Teaching AI how your business works",
+      "description": "Trusted AI starts with the right context. See how the Sigma Context Engine uses context from your team’s work in Sigma to make AI responses more accurate and reliable.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/c426ebbb0160cb2c464b8bf1e8d5961ed3b1d87b-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Product Updates",
+      "first_seen": "2026-11-16T21:52:40.901242+00:00",
+      "pub_date": "2026-11-16T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/ai-budgets-limit-spend": {
       "url": "https://www.sigmacomputing.com/blog/ai-budgets-limit-spend",
       "title": "Introducing AI Budgets: Set limits on AI spend in Sigma",
@@ -1559,15 +1569,6 @@
       "category": "AI & Agents",
       "first_seen": "2026-10-06T05:57:01.987157+00:00",
       "pub_date": "2026-10-06T05:57:01.987157+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli": {
-      "url": "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli",
-      "title": "Build a Sigma App with the Sigma MCP and CLI",
-      "description": "Connect any AI assistant to Sigma MCP, build a working app from one plain-language request, and automate admin tasks with the CLI. Follow 6 steps.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/c263593ca863a639ada3e054dc7fb2d103b20626-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "AI & Agents",
-      "first_seen": "2026-10-02T22:03:15.978131+00:00",
-      "pub_date": "2026-10-02T00:00:00+00:00"
     }
   }
 }
