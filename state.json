@@ -370,6 +370,7 @@
     "https://www.sigmacomputing.com/blog/from-power-bi-user-to-sigma-champion",
     "https://www.sigmacomputing.com/blog/from-series-b-to-c-an-interview-with-mike-palmer-ceo-of-sigma-computing",
     "https://www.sigmacomputing.com/blog/from-spreadsheets-to-sigma-5-things-to-know",
+    "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale",
     "https://www.sigmacomputing.com/blog/gartner-data-analytics-summit-2023-recap",
     "https://www.sigmacomputing.com/blog/gartner-hype-cycle-agentic-ai",
     "https://www.sigmacomputing.com/blog/gartner-r-recognizes-sigma-2025-magic-quadrant",
@@ -1120,6 +1121,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale": {
+      "url": "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale",
+      "title": "Introducing full stack apps in Sigma: IT-managed apps that anyone can build",
+      "description": "See how Sigma enables teams to build, deploy, and manage custom AI-powered React apps with enterprise security, governance, and infrastructure to scale.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/6b5db1610d0276d65a94e96c73eeb5f8601d126a-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Apps",
+      "first_seen": "2026-11-17T18:22:09.774935+00:00",
+      "pub_date": "2026-11-17T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-context-engine": {
       "url": "https://www.sigmacomputing.com/blog/sigma-context-engine",
       "title": "Introducing the Sigma Context Engine: Teaching AI how your business works",
@@ -1560,15 +1570,6 @@
       "category": null,
       "first_seen": "2026-10-07T18:46:34.585268+00:00",
       "pub_date": "2026-10-07T16:22:17+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode": {
-      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
-      "title": "Sigma Assistant Build Mode Is GA: Generate Dashboards and Apps in Minutes",
-      "description": "Start building governed dashboards and apps in Sigma by describing them. Sigma Assistant builds editable workbook elements on live warehouse data.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/c89034207481ff5df53cae29bdbfa6869dd065ab-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "AI & Agents",
-      "first_seen": "2026-10-06T05:57:01.987157+00:00",
-      "pub_date": "2026-10-06T05:57:01.987157+00:00"
     }
   }
 }

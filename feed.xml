@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:22:10 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing full stack apps in Sigma: IT-managed apps that anyone can build</title>
+      <link>https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>See how Sigma enables teams to build, deploy, and manage custom AI-powered React apps with enterprise security, governance, and infrastructure to scale.</description>
+      <category>Apps</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6b5db1610d0276d65a94e96c73eeb5f8601d126a-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Introducing the Sigma Context Engine: Teaching AI how your business works</title>
       <link>https://www.sigmacomputing.com/blog/sigma-context-engine</link>
@@ -432,15 +441,6 @@
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok</link>
       <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok</guid>
       <pubDate>Wed, 07 Oct 2026 16:22:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sigma Assistant Build Mode Is GA: Generate Dashboards and Apps in Minutes</title>
-      <link>https://www.sigmacomputing.com/blog/sigma-assistant-build-mode</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-build-mode</guid>
-      <pubDate>Tue, 06 Oct 2026 05:57:01 +0000</pubDate>
-      <description>Start building governed dashboards and apps in Sigma by describing them. Sigma Assistant builds editable workbook elements on live warehouse data.</description>
-      <category>AI &amp; Agents</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/c89034207481ff5df53cae29bdbfa6869dd065ab-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
