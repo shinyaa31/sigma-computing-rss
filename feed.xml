@@ -5,7 +5,7 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:22:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:49:13 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Introducing full stack apps in Sigma: IT-managed apps that anyone can build</title>
@@ -15,6 +15,15 @@
       <description>See how Sigma enables teams to build, deploy, and manage custom AI-powered React apps with enterprise security, governance, and infrastructure to scale.</description>
       <category>Apps</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6b5db1610d0276d65a94e96c73eeb5f8601d126a-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>The future of building: Everyone builds. IT approved.</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/the-future-of-building</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/the-future-of-building</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Watch the Nov 17 livestream to see what anyone can build on Sigma and how IT approves every app, report, and agent in one place.</description>
+      <category>Webinars &amp; Events</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/64112554ea0db3851d8284db6dc547f2e3bbe988-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>Introducing the Sigma Context Engine: Teaching AI how your business works</title>
@@ -435,12 +444,6 @@
       <description>Turn your Claude dashboard prototype into a governed, shareable workbook by sending it to Sigma, or build it into a larger app.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/53f56527aa36c7ce5dc4ff24689c9d9df604c056-1280x720.png?rect=0,26,1280,669&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Build sigma apps with a single prompt using chatgpt and grok</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok</guid>
-      <pubDate>Wed, 07 Oct 2026 16:22:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

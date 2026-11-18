@@ -1096,6 +1096,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/swing-data-data",
     "https://www.sigmacomputing.com/resources/webinars-and-events/tableau-is-old-news-why-companies-are-turning-to-modern-cloud-native-analytics",
     "https://www.sigmacomputing.com/resources/webinars-and-events/teachable-reimagined-its-analytics-workflow-with-sigma",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/the-future-of-building",
     "https://www.sigmacomputing.com/resources/webinars-and-events/the-modern-data-stack-roadblocks-and-new-possibilities",
     "https://www.sigmacomputing.com/resources/webinars-and-events/the-well-on-demand-webinar",
     "https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization",
@@ -1128,6 +1129,15 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/6b5db1610d0276d65a94e96c73eeb5f8601d126a-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Apps",
       "first_seen": "2026-11-17T18:22:09.774935+00:00",
+      "pub_date": "2026-11-17T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/resources/webinars-and-events/the-future-of-building": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/the-future-of-building",
+      "title": "The future of building: Everyone builds. IT approved.",
+      "description": "Watch the Nov 17 livestream to see what anyone can build on Sigma and how IT approves every app, report, and agent in one place.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/64112554ea0db3851d8284db6dc547f2e3bbe988-3840x2160.png?rect=0,77,3840,2006&w=1200&h=627&fit=crop&auto=format",
+      "category": "Webinars & Events",
+      "first_seen": "2026-11-18T02:49:13.536136+00:00",
       "pub_date": "2026-11-17T00:00:00+00:00"
     },
     "https://www.sigmacomputing.com/blog/sigma-context-engine": {
@@ -1561,15 +1571,6 @@
       "category": "AI & Agents",
       "first_seen": "2026-10-09T01:07:12.995946+00:00",
       "pub_date": "2026-10-08T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok",
-      "title": "Build sigma apps with a single prompt using chatgpt and grok",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-10-07T18:46:34.585268+00:00",
-      "pub_date": "2026-10-07T16:22:17+00:00"
     }
   }
 }
