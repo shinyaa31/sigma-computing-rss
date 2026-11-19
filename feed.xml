@@ -5,7 +5,7 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:23:58 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Build workbooks from PDF and image uploads with Sigma Assistant</title>
@@ -33,6 +33,15 @@
       <description>Watch the Nov 17 livestream to see what anyone can build on Sigma and how IT approves every app, report, and agent in one place.</description>
       <category>Webinars &amp; Events</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/64112554ea0db3851d8284db6dc547f2e3bbe988-3840x2160.png?rect=0,77,3840,2006&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Build Sigma apps with a single request using ChatGPT</title>
+      <link>https://www.sigmacomputing.com/blog/build-sigma-apps-with-chatgpt</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/build-sigma-apps-with-chatgpt</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn how to connect ChatGPT to Sigma, ask questions of governed data, and turn the answer into a working scenario modeling app with a Sigma agent.</description>
+      <category>Apps</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/cc68a0a375772bb76816cebbb5301c0be7e7dddd-2000x883.png?rect=155,0,1690,883&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>Introducing the Sigma Context Engine: Teaching AI how your business works</title>
@@ -438,12 +447,6 @@
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma</link>
       <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma</guid>
       <pubDate>Fri, 09 Oct 2026 16:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build sigma apps with a single prompt using chatgpt</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt</guid>
-      <pubDate>Fri, 09 Oct 2026 16:48:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

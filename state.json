@@ -145,6 +145,7 @@
     "https://www.sigmacomputing.com/blog/build-governed-apps-coding-agent",
     "https://www.sigmacomputing.com/blog/build-sigma-agent-data-modeling",
     "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli",
+    "https://www.sigmacomputing.com/blog/build-sigma-apps-with-chatgpt",
     "https://www.sigmacomputing.com/blog/build-your-march-madness-bracket-with-historical-data-through-sigma",
     "https://www.sigmacomputing.com/blog/building-a-data-lake-or-data-warehouse-in-the-cloud-heres-what-you-need-to-know",
     "https://www.sigmacomputing.com/blog/building-a-modern-cloud-analytics-stack-a-guide-for-data-driven-companies",
@@ -1150,6 +1151,15 @@
       "first_seen": "2026-11-18T02:49:13.536136+00:00",
       "pub_date": "2026-11-17T00:00:00+00:00"
     },
+    "https://www.sigmacomputing.com/blog/build-sigma-apps-with-chatgpt": {
+      "url": "https://www.sigmacomputing.com/blog/build-sigma-apps-with-chatgpt",
+      "title": "Build Sigma apps with a single request using ChatGPT",
+      "description": "Learn how to connect ChatGPT to Sigma, ask questions of governed data, and turn the answer into a working scenario modeling app with a Sigma agent.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/cc68a0a375772bb76816cebbb5301c0be7e7dddd-2000x883.png?rect=155,0,1690,883&w=1200&h=627&fit=crop&auto=format",
+      "category": "Apps",
+      "first_seen": "2026-11-19T11:23:58.083612+00:00",
+      "pub_date": "2026-11-17T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-context-engine": {
       "url": "https://www.sigmacomputing.com/blog/sigma-context-engine",
       "title": "Introducing the Sigma Context Engine: Teaching AI how your business works",
@@ -1563,15 +1573,6 @@
       "category": null,
       "first_seen": "2026-10-09T18:14:57.221240+00:00",
       "pub_date": "2026-10-09T16:49:30+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt",
-      "title": "Build sigma apps with a single prompt using chatgpt",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-10-09T18:14:58.776552+00:00",
-      "pub_date": "2026-10-09T16:48:44+00:00"
     }
   }
 }
