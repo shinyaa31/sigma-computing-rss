@@ -602,6 +602,7 @@
     "https://www.sigmacomputing.com/blog/sigma-announces-expansion-to-aws-uk",
     "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
     "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster",
+    "https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads",
     "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
     "https://www.sigmacomputing.com/blog/sigma-at-snowflake-summit-2023-recap",
     "https://www.sigmacomputing.com/blog/sigma-awarded-snowflake-bi-partner-of-the-year-2023",
@@ -1122,6 +1123,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads",
+      "title": "Build workbooks from PDF and image uploads with Sigma Assistant",
+      "description": "Build dashboards and apps with Sigma Assistant from your brand guides, requirements docs, wireframes, design mockups, and more.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/e55dded0da1fc1fbedb1dafe87e98d715ada6c48-2000x1050.webp?rect=0,3,2000,1045&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-11-19T02:27:19.009846+00:00",
+      "pub_date": "2026-11-19T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale": {
       "url": "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale",
       "title": "Introducing full stack apps in Sigma: IT-managed apps that anyone can build",
@@ -1562,15 +1572,6 @@
       "category": null,
       "first_seen": "2026-10-09T18:14:58.776552+00:00",
       "pub_date": "2026-10-09T16:48:44+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/claude-dashboards": {
-      "url": "https://www.sigmacomputing.com/blog/claude-dashboards",
-      "title": "Claude Dashboards: Prototype in Claude, Send to Sigma",
-      "description": "Turn your Claude dashboard prototype into a governed, shareable workbook by sending it to Sigma, or build it into a larger app.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/53f56527aa36c7ce5dc4ff24689c9d9df604c056-1280x720.png?rect=0,26,1280,669&w=1200&h=627&fit=crop&auto=format",
-      "category": "AI & Agents",
-      "first_seen": "2026-10-09T01:07:12.995946+00:00",
-      "pub_date": "2026-10-08T00:00:00+00:00"
     }
   }
 }

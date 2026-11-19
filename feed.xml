@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:27:19 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Build workbooks from PDF and image uploads with Sigma Assistant</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Build dashboards and apps with Sigma Assistant from your brand guides, requirements docs, wireframes, design mockups, and more.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e55dded0da1fc1fbedb1dafe87e98d715ada6c48-2000x1050.webp?rect=0,3,2000,1045&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Introducing full stack apps in Sigma: IT-managed apps that anyone can build</title>
       <link>https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale</link>
@@ -435,15 +444,6 @@
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt</link>
       <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt</guid>
       <pubDate>Fri, 09 Oct 2026 16:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Dashboards: Prototype in Claude, Send to Sigma</title>
-      <link>https://www.sigmacomputing.com/blog/claude-dashboards</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/claude-dashboards</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Turn your Claude dashboard prototype into a governed, shareable workbook by sending it to Sigma, or build it into a larger app.</description>
-      <category>AI &amp; Agents</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/53f56527aa36c7ce5dc4ff24689c9d9df604c056-1280x720.png?rect=0,26,1280,669&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
