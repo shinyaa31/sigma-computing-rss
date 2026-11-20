@@ -43,10 +43,12 @@
     "https://www.sigmacomputing.com/blog/agentic-workflows-data-analysis",
     "https://www.sigmacomputing.com/blog/agile-analytics-provides-answers-for-daily-decision-making",
     "https://www.sigmacomputing.com/blog/agile-bi-reporting-workflows",
+    "https://www.sigmacomputing.com/blog/ai-agent-write-access",
     "https://www.sigmacomputing.com/blog/ai-agents-automated-reporting",
     "https://www.sigmacomputing.com/blog/ai-agents-customer-support-success",
     "https://www.sigmacomputing.com/blog/ai-agents-demand-forecasting",
     "https://www.sigmacomputing.com/blog/ai-agents-eliminate-hours-of-repetitive-data-work",
+    "https://www.sigmacomputing.com/blog/ai-agents-finance-fpa",
     "https://www.sigmacomputing.com/blog/ai-agents-for-hr-people-operations",
     "https://www.sigmacomputing.com/blog/ai-agents-for-manufacturing-operations",
     "https://www.sigmacomputing.com/blog/ai-agents-for-people-analytics-software",
@@ -67,6 +69,7 @@
     "https://www.sigmacomputing.com/blog/ai-for-data-analysis",
     "https://www.sigmacomputing.com/blog/ai-for-data-blending",
     "https://www.sigmacomputing.com/blog/ai-in-excel-vs-bi",
+    "https://www.sigmacomputing.com/blog/ai-kpi-monitoring",
     "https://www.sigmacomputing.com/blog/ai-labs-summer-2026-interns",
     "https://www.sigmacomputing.com/blog/ai-layers",
     "https://www.sigmacomputing.com/blog/ai-machine-learning-bi-solutions",
@@ -1133,6 +1136,33 @@
       "first_seen": "2026-11-19T02:27:19.009846+00:00",
       "pub_date": "2026-11-19T00:00:00+00:00"
     },
+    "https://www.sigmacomputing.com/blog/ai-agents-finance-fpa": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agents-finance-fpa",
+      "title": "AI agents for finance and FP&A: Use cases and setup",
+      "description": "Learn what AI agents do for finance and FP&A teams, the top use cases, and how to set them up on governed warehouse data for auditable results.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/73ff818db4e36f895c5c1ce6f16b4eb7b521d732-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-20T02:11:48.279476+00:00",
+      "pub_date": "2026-11-19T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-kpi-monitoring": {
+      "url": "https://www.sigmacomputing.com/blog/ai-kpi-monitoring",
+      "title": "AI KPI monitoring: Agents that explain and act on alerts",
+      "description": "AI KPI monitoring uses scheduled and webhook-triggered agents to check metrics, explain what changed, and start the follow-up work.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/fce8b9f80f86807eaadb8987db598ddbbf8710f5-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-20T02:11:49.465121+00:00",
+      "pub_date": "2026-11-19T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-agent-write-access": {
+      "url": "https://www.sigmacomputing.com/blog/ai-agent-write-access",
+      "title": "AI agent write access: How to let agents change data safely",
+      "description": "AI agent write access lets agents finish the update a finding calls for. Use 4 controls, from scoped actions to audit records, to do it safely.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/42551201a856c70beb4af7dcc5d968dc90006d46-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-20T02:11:50.765862+00:00",
+      "pub_date": "2026-11-18T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale": {
       "url": "https://www.sigmacomputing.com/blog/future-of-building-apps-at-scale",
       "title": "Introducing full stack apps in Sigma: IT-managed apps that anyone can build",
@@ -1546,33 +1576,6 @@
       "category": "Fundamentals",
       "first_seen": "2026-10-14T21:30:47.243169+00:00",
       "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-agents-customer-support-success": {
-      "url": "https://www.sigmacomputing.com/blog/ai-agents-customer-support-success",
-      "title": "AI agents for customer support & success: Use cases",
-      "description": "AI agents for customer support resolve tickets, flag churn risk, and write outcomes back to your systems using live warehouse data. Learn how to implement them.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/7ebf49ec4723e872714a7fd5d330aa169b6e0aea-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:48.620928+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization",
-      "title": "Turn complex scheduling into a sigma app with self service optimization",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-10-10T00:39:57.042757+00:00",
-      "pub_date": "2026-10-09T19:24:05+00:00"
-    },
-    "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma": {
-      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma",
-      "title": "Setting up claude skills for sigma",
-      "description": "",
-      "image": null,
-      "category": null,
-      "first_seen": "2026-10-09T18:14:57.221240+00:00",
-      "pub_date": "2026-10-09T16:49:30+00:00"
     }
   }
 }

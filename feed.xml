@@ -5,7 +5,7 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:11:50 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Build workbooks from PDF and image uploads with Sigma Assistant</title>
@@ -15,6 +15,33 @@
       <description>Build dashboards and apps with Sigma Assistant from your brand guides, requirements docs, wireframes, design mockups, and more.</description>
       <category>AI &amp; Agents</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e55dded0da1fc1fbedb1dafe87e98d715ada6c48-2000x1050.webp?rect=0,3,2000,1045&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI agents for finance and FP&amp;A: Use cases and setup</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agents-finance-fpa</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-finance-fpa</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn what AI agents do for finance and FP&amp;A teams, the top use cases, and how to set them up on governed warehouse data for auditable results.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/73ff818db4e36f895c5c1ce6f16b4eb7b521d732-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI KPI monitoring: Agents that explain and act on alerts</title>
+      <link>https://www.sigmacomputing.com/blog/ai-kpi-monitoring</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-kpi-monitoring</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI KPI monitoring uses scheduled and webhook-triggered agents to check metrics, explain what changed, and start the follow-up work.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/fce8b9f80f86807eaadb8987db598ddbbf8710f5-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI agent write access: How to let agents change data safely</title>
+      <link>https://www.sigmacomputing.com/blog/ai-agent-write-access</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agent-write-access</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI agent write access lets agents finish the update a finding calls for. Use 4 controls, from scoped actions to audit records, to do it safely.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/42551201a856c70beb4af7dcc5d968dc90006d46-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
     <item>
       <title>Introducing full stack apps in Sigma: IT-managed apps that anyone can build</title>
@@ -426,27 +453,6 @@
       <description>Learn what executive dashboards are, key KPIs to include, and how to build one with live, governed data.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/1b7338d764a43e307af2c215ff95d1c025fd0ff0-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>AI agents for customer support &amp; success: Use cases</title>
-      <link>https://www.sigmacomputing.com/blog/ai-agents-customer-support-success</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-customer-support-success</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>AI agents for customer support resolve tickets, flag churn risk, and write outcomes back to your systems using live warehouse data. Learn how to implement them.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/7ebf49ec4723e872714a7fd5d330aa169b6e0aea-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Turn complex scheduling into a sigma app with self service optimization</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/turn-complex-scheduling-into-a-sigma-app-with-self-service-optimization</guid>
-      <pubDate>Fri, 09 Oct 2026 19:24:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setting up claude skills for sigma</title>
-      <link>https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/setting-up-claude-skills-for-sigma</guid>
-      <pubDate>Fri, 09 Oct 2026 16:49:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
