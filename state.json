@@ -63,6 +63,7 @@
     "https://www.sigmacomputing.com/blog/ai-budgets-limit-spend",
     "https://www.sigmacomputing.com/blog/ai-coaching-with-sigma",
     "https://www.sigmacomputing.com/blog/ai-cost-monitoring-templates",
+    "https://www.sigmacomputing.com/blog/ai-dashboard-generator",
     "https://www.sigmacomputing.com/blog/ai-data-analytics-governance",
     "https://www.sigmacomputing.com/blog/ai-for-business-analysts",
     "https://www.sigmacomputing.com/blog/ai-for-business-intelligence",
@@ -493,6 +494,7 @@
     "https://www.sigmacomputing.com/blog/management-reporting-software",
     "https://www.sigmacomputing.com/blog/manufacturing-finance-margin-variance-app",
     "https://www.sigmacomputing.com/blog/mature-analytics-workflow",
+    "https://www.sigmacomputing.com/blog/mcp-for-data-analysis",
     "https://www.sigmacomputing.com/blog/meet-jake-sigma-cortex-agent",
     "https://www.sigmacomputing.com/blog/metadata-bi",
     "https://www.sigmacomputing.com/blog/metrics-that-mislead",
@@ -669,6 +671,7 @@
     "https://www.sigmacomputing.com/blog/sigmaverse-app-game-storefront",
     "https://www.sigmacomputing.com/blog/sisense-alternatives-embedded-analytics",
     "https://www.sigmacomputing.com/blog/slas-analytics-bi",
+    "https://www.sigmacomputing.com/blog/snowflake-cortex-agents",
     "https://www.sigmacomputing.com/blog/snowflake-cortex-agents-sigma",
     "https://www.sigmacomputing.com/blog/snowflake-cortex-aisql-launch",
     "https://www.sigmacomputing.com/blog/snowflake-cortex-functions-with-sigma",
@@ -948,6 +951,7 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-anything-with-ai",
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt",
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-sigma-apps-with-a-single-prompt-using-chatgpt-and-grok",
+    "https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-data-synchronized-business-with-a-modern-data-stack",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-a-pto-tracker-app-in-sigma-public",
     "https://www.sigmacomputing.com/resources/webinars-and-events/building-and-scaling-ai-systems-in-sigma",
@@ -1127,6 +1131,42 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli": {
+      "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli",
+      "title": "Build in Sigma with MCP & CLI",
+      "description": "Learn how to connect AI assistants, automate workflows, and build with Sigma MCP and Sigma CLI in this hands-on livestream.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/fb5586d2d21397f8ac27e0cd49ce23e302a3402e-1200x628.png?rect=0,1,1200,627&w=1200&h=627&fit=crop&auto=format",
+      "category": "Build with Sigma MCP & CLI",
+      "first_seen": "2026-11-21T02:03:38.678598+00:00",
+      "pub_date": "2026-11-20T21:24:03+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/ai-dashboard-generator": {
+      "url": "https://www.sigmacomputing.com/blog/ai-dashboard-generator",
+      "title": "AI dashboard generator: Build dashboards by describing them",
+      "description": "An AI dashboard generator turns a prompt into a working dashboard. Test whether it runs on live, governed data and edits one chart at a time.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/127af37d1655c8d9c8e2393e8de61085afac3ec5-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-21T02:03:37.458273+00:00",
+      "pub_date": "2026-11-20T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/snowflake-cortex-agents": {
+      "url": "https://www.sigmacomputing.com/blog/snowflake-cortex-agents",
+      "title": "Snowflake Cortex Agents: How to use them in Sigma",
+      "description": "Connect a Snowflake Cortex Agent to Sigma so teams can use it in workbooks and apps, with access still governed by your Snowflake roles.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/9697f50e8d5dd8a626bef16e03ef92162f8e2104-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-21T02:03:39.865582+00:00",
+      "pub_date": "2026-11-20T00:00:00+00:00"
+    },
+    "https://www.sigmacomputing.com/blog/mcp-for-data-analysis": {
+      "url": "https://www.sigmacomputing.com/blog/mcp-for-data-analysis",
+      "title": "MCP for data analysis: Connect AI to governed data",
+      "description": "MCP for data analysis lets Claude and ChatGPT query live business data. See what the server must enforce before your team connects an assistant.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/e310beb53908337e8a499b62814e9d6a1c5f6410-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "Fundamentals",
+      "first_seen": "2026-11-21T02:03:41.080084+00:00",
+      "pub_date": "2026-11-20T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads": {
       "url": "https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads",
       "title": "Build workbooks from PDF and image uploads with Sigma Assistant",
@@ -1539,42 +1579,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/285068a1693298a4e816445220006513a681bc39-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-10-14T21:30:41.615464+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-powered-supply-chain-analytics": {
-      "url": "https://www.sigmacomputing.com/blog/ai-powered-supply-chain-analytics",
-      "title": "How to implement AI-powered supply chain analytics",
-      "description": "Learn how to connect ERP, WMS, and TMS data, govern it, apply predictive models, and automate alerts that resolve supply chain disruptions before they escalate.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/6a5a3baaf1a88ff0606730e05decdfa64d900c53-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:42.984923+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/bi-tools-enterprise-decision-making": {
-      "url": "https://www.sigmacomputing.com/blog/bi-tools-enterprise-decision-making",
-      "title": "7 Ways analytics helps enterprises make better decisions",
-      "description": "See how live warehouse data, self-service access, and writeback remove the handoff between insight and action.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/faa717f0d585297b3f40cf3e85ba974d880259b0-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:44.400071+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-agents-for-manufacturing-operations": {
-      "url": "https://www.sigmacomputing.com/blog/ai-agents-for-manufacturing-operations",
-      "title": "AI agents for manufacturing operations: How they work",
-      "description": "How AI agents for manufacturing close the loop from sensor signal to corrective action across quality holds, work orders, and schedule changes.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/e0be60b1089e591dc74bf0c905728b2cbcdf16f4-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:45.831265+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/executive-dashboards": {
-      "url": "https://www.sigmacomputing.com/blog/executive-dashboards",
-      "title": "Executive dashboards: What they are and how to Build One",
-      "description": "Learn what executive dashboards are, key KPIs to include, and how to build one with live, governed data.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/1b7338d764a43e307af2c215ff95d1c025fd0ff0-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:47.243169+00:00",
       "pub_date": "2026-10-14T00:00:00+00:00"
     }
   }

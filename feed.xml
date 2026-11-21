@@ -5,8 +5,44 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:53:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:03:41 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Build in Sigma with MCP &amp; CLI</title>
+      <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli</guid>
+      <pubDate>Fri, 20 Nov 2026 21:24:03 +0000</pubDate>
+      <description>Learn how to connect AI assistants, automate workflows, and build with Sigma MCP and Sigma CLI in this hands-on livestream.</description>
+      <category>Build with Sigma MCP &amp; CLI</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/fb5586d2d21397f8ac27e0cd49ce23e302a3402e-1200x628.png?rect=0,1,1200,627&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>AI dashboard generator: Build dashboards by describing them</title>
+      <link>https://www.sigmacomputing.com/blog/ai-dashboard-generator</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-dashboard-generator</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>An AI dashboard generator turns a prompt into a working dashboard. Test whether it runs on live, governed data and edits one chart at a time.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/127af37d1655c8d9c8e2393e8de61085afac3ec5-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Snowflake Cortex Agents: How to use them in Sigma</title>
+      <link>https://www.sigmacomputing.com/blog/snowflake-cortex-agents</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/snowflake-cortex-agents</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Connect a Snowflake Cortex Agent to Sigma so teams can use it in workbooks and apps, with access still governed by your Snowflake roles.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/9697f50e8d5dd8a626bef16e03ef92162f8e2104-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>MCP for data analysis: Connect AI to governed data</title>
+      <link>https://www.sigmacomputing.com/blog/mcp-for-data-analysis</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/mcp-for-data-analysis</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>MCP for data analysis lets Claude and ChatGPT query live business data. See what the server must enforce before your team connects an assistant.</description>
+      <category>Fundamentals</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e310beb53908337e8a499b62814e9d6a1c5f6410-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Build workbooks from PDF and image uploads with Sigma Assistant</title>
       <link>https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads</link>
@@ -417,42 +453,6 @@
       <description>Learn how predictive supply chain analytics turns live warehouse data into decisions on demand, supplier risk, and delivery times.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/285068a1693298a4e816445220006513a681bc39-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>How to implement AI-powered supply chain analytics</title>
-      <link>https://www.sigmacomputing.com/blog/ai-powered-supply-chain-analytics</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-powered-supply-chain-analytics</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Learn how to connect ERP, WMS, and TMS data, govern it, apply predictive models, and automate alerts that resolve supply chain disruptions before they escalate.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/6a5a3baaf1a88ff0606730e05decdfa64d900c53-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>7 Ways analytics helps enterprises make better decisions</title>
-      <link>https://www.sigmacomputing.com/blog/bi-tools-enterprise-decision-making</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/bi-tools-enterprise-decision-making</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>See how live warehouse data, self-service access, and writeback remove the handoff between insight and action.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/faa717f0d585297b3f40cf3e85ba974d880259b0-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>AI agents for manufacturing operations: How they work</title>
-      <link>https://www.sigmacomputing.com/blog/ai-agents-for-manufacturing-operations</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-agents-for-manufacturing-operations</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>How AI agents for manufacturing close the loop from sensor signal to corrective action across quality holds, work orders, and schedule changes.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/e0be60b1089e591dc74bf0c905728b2cbcdf16f4-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Executive dashboards: What they are and how to Build One</title>
-      <link>https://www.sigmacomputing.com/blog/executive-dashboards</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/executive-dashboards</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Learn what executive dashboards are, key KPIs to include, and how to build one with live, governed data.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/1b7338d764a43e307af2c215ff95d1c025fd0ff0-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
