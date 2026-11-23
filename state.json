@@ -609,6 +609,7 @@
     "https://www.sigmacomputing.com/blog/sigma-assistant-build-mode",
     "https://www.sigmacomputing.com/blog/sigma-assistant-cheaper-faster",
     "https://www.sigmacomputing.com/blog/sigma-assistant-file-uploads",
+    "https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers",
     "https://www.sigmacomputing.com/blog/sigma-assistant-upgrade",
     "https://www.sigmacomputing.com/blog/sigma-at-snowflake-summit-2023-recap",
     "https://www.sigmacomputing.com/blog/sigma-awarded-snowflake-bi-partner-of-the-year-2023",
@@ -1131,6 +1132,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers": {
+      "url": "https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers",
+      "title": "Traceable answers are now in Sigma Assistant",
+      "description": "Easily verify any AI answer in Sigma Assistant. Trace calculations back to the metric, calculation and data lineage, then dive deeper directly within chat or workbooks.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/ee2dd1260b7feb9fe2a3fd80c1072318b87a9a60-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-11-23T01:29:19.105397+00:00",
+      "pub_date": "2026-11-22T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli": {
       "url": "https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli",
       "title": "Build in Sigma with MCP & CLI",
@@ -1570,15 +1580,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/b2416f49046a627724f50270cdc9be2111dfbae8-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-10-14T21:30:40.078144+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/predictive-supply-chain-analytics": {
-      "url": "https://www.sigmacomputing.com/blog/predictive-supply-chain-analytics",
-      "title": "Predictive supply chain analytics: use cases and requirements",
-      "description": "Learn how predictive supply chain analytics turns live warehouse data into decisions on demand, supplier risk, and delivery times.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/285068a1693298a4e816445220006513a681bc39-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:41.615464+00:00",
       "pub_date": "2026-10-14T00:00:00+00:00"
     }
   }

@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 19:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:29:19 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Traceable answers are now in Sigma Assistant</title>
+      <link>https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Easily verify any AI answer in Sigma Assistant. Trace calculations back to the metric, calculation and data lineage, then dive deeper directly within chat or workbooks.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/ee2dd1260b7feb9fe2a3fd80c1072318b87a9a60-2400x1260.png?rect=0,3,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Build in Sigma with MCP &amp; CLI</title>
       <link>https://www.sigmacomputing.com/resources/webinars-and-events/build-with-sigma-mcp-and-cli</link>
@@ -444,15 +453,6 @@
       <description>AI is reshaping the business analyst's task mix, absorbing repetitive work and freeing time for higher-value analysis. See how Sigma helps.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b2416f49046a627724f50270cdc9be2111dfbae8-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>Predictive supply chain analytics: use cases and requirements</title>
-      <link>https://www.sigmacomputing.com/blog/predictive-supply-chain-analytics</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/predictive-supply-chain-analytics</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Learn how predictive supply chain analytics turns live warehouse data into decisions on demand, supplier risk, and delivery times.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/285068a1693298a4e816445220006513a681bc39-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
