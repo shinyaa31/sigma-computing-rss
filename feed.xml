@@ -5,8 +5,17 @@
     <link>https://www.sigmacomputing.com/blog</link>
     <description>sitemap.xmlから生成した非公式RSSフィードです。</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:01:31 +0000</lastBuildDate>
     <atom:link href="https://shinyaa31.github.io/sigma-computing-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to build full stack apps in Sigma with AI</title>
+      <link>https://www.sigmacomputing.com/blog/build-full-stack-apps-sigma-ai</link>
+      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/build-full-stack-apps-sigma-ai</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn how to build and publish custom business apps with AI in Sigma, keep every update in your data warehouse, and give IT control over access.</description>
+      <category>AI &amp; Agents</category>
+      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/93bb1d1afdbede29794e37e12d5ce413a11fa3ea-2048x1075.png?rect=0,3,2048,1070&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Traceable answers are now in Sigma Assistant</title>
       <link>https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers</link>
@@ -444,15 +453,6 @@
       <description>Learn what KPI tracking is, why it lags behind the business, and how to monitor and report on key metrics without manual exports or stale data.</description>
       <category>Fundamentals</category>
       <enclosure url="https://cdn.sanity.io/images/9i48iita/production/812361199012a0c1d4f3a9b6dcfd8b2bb1b37880-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>How AI is changing the business analyst role in 2026</title>
-      <link>https://www.sigmacomputing.com/blog/ai-for-business-analysts</link>
-      <guid isPermaLink="true">https://www.sigmacomputing.com/blog/ai-for-business-analysts</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>AI is reshaping the business analyst's task mix, absorbing repetitive work and freeing time for higher-value analysis. See how Sigma helps.</description>
-      <category>Fundamentals</category>
-      <enclosure url="https://cdn.sanity.io/images/9i48iita/production/b2416f49046a627724f50270cdc9be2111dfbae8-2400x1300.png?rect=0,23,2400,1254&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>

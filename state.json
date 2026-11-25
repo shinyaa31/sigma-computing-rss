@@ -146,6 +146,7 @@
     "https://www.sigmacomputing.com/blog/broken-data-insights",
     "https://www.sigmacomputing.com/blog/budget-variance-data-app",
     "https://www.sigmacomputing.com/blog/build-data-app",
+    "https://www.sigmacomputing.com/blog/build-full-stack-apps-sigma-ai",
     "https://www.sigmacomputing.com/blog/build-governed-apps-coding-agent",
     "https://www.sigmacomputing.com/blog/build-sigma-agent-data-modeling",
     "https://www.sigmacomputing.com/blog/build-sigma-app-mcp-cli",
@@ -1132,6 +1133,15 @@
     "https://www.sigmacomputing.com/resources/webinars-and-events/zero-to-60-building-embedded-analytics-applications-powered-by-snowflake-and-sigma-video"
   ],
   "items": {
+    "https://www.sigmacomputing.com/blog/build-full-stack-apps-sigma-ai": {
+      "url": "https://www.sigmacomputing.com/blog/build-full-stack-apps-sigma-ai",
+      "title": "How to build full stack apps in Sigma with AI",
+      "description": "Learn how to build and publish custom business apps with AI in Sigma, keep every update in your data warehouse, and give IT control over access.",
+      "image": "https://cdn.sanity.io/images/9i48iita/production/93bb1d1afdbede29794e37e12d5ce413a11fa3ea-2048x1075.png?rect=0,3,2048,1070&w=1200&h=627&fit=crop&auto=format",
+      "category": "AI & Agents",
+      "first_seen": "2026-11-25T08:01:30.844145+00:00",
+      "pub_date": "2026-11-24T00:00:00+00:00"
+    },
     "https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers": {
       "url": "https://www.sigmacomputing.com/blog/sigma-assistant-traceable-answers",
       "title": "Traceable answers are now in Sigma Assistant",
@@ -1571,15 +1581,6 @@
       "image": "https://cdn.sanity.io/images/9i48iita/production/812361199012a0c1d4f3a9b6dcfd8b2bb1b37880-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
       "category": "Fundamentals",
       "first_seen": "2026-10-14T21:30:38.555451+00:00",
-      "pub_date": "2026-10-14T00:00:00+00:00"
-    },
-    "https://www.sigmacomputing.com/blog/ai-for-business-analysts": {
-      "url": "https://www.sigmacomputing.com/blog/ai-for-business-analysts",
-      "title": "How AI is changing the business analyst role in 2026",
-      "description": "AI is reshaping the business analyst's task mix, absorbing repetitive work and freeing time for higher-value analysis. See how Sigma helps.",
-      "image": "https://cdn.sanity.io/images/9i48iita/production/b2416f49046a627724f50270cdc9be2111dfbae8-2400x1300.png?rect=0,23,2400,1254&w=1200&h=627&fit=crop&auto=format",
-      "category": "Fundamentals",
-      "first_seen": "2026-10-14T21:30:40.078144+00:00",
       "pub_date": "2026-10-14T00:00:00+00:00"
     }
   }
